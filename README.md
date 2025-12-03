@@ -15,6 +15,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 ## 📂 Featured Projects
 
+### Mobile Apps
 - [Yu-Gi-Oh Card Builder](https://play.google.com/store/apps/details?id=com.ssteam.yugioh_card_builder)
 - [Sliding Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.sliding_puzzle)
 - [Compass](https://play.google.com/store/apps/details?id=com.ssteam.compass)
@@ -40,7 +41,18 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Periodic Table](https://play.google.com/store/apps/details?id=com.ssteam.periodic_table)
 - [Planet Explorer](https://play.google.com/store/apps/details?id=com.ssteam.planet_explorer)
 
----
+### Web Apps
+- [Rain Simulator](https://datnguyencr.github.io/rain-simulator-web/)
+- [Planet Explorer](https://datnguyencr.github.io/planet-explorer-web/)
+- [Sudoku](https://datnguyencr.github.io/sudoku-web/)
+- [Sliding Puzzle](https://datnguyencr.github.io/sliding-puzzle-web/)
+- [CV Builder](https://datnguyencr.github.io/cv-builder-web/)
+
+### Chrome Extensions
+- [File Downloader](https://chromewebstore.google.com/detail/file-downloader/hahkepphjffjcghlgfbeedkpmcncllag)
+- [Color Picker Cursor](https://chromewebstore.google.com/detail/color-picker-cursor/eacccbllbdkdhieahoijpbnkkdnhllnl)
+- [Web Font Override](https://chromewebstore.google.com/detail/web-font-override/bfklnnbknkgcalgnejncmfkkfohgadhj)
+
 
 ## 📊 GitHub Stats
 
@@ -59,7 +71,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 ## 📫 Contact Me
 
 - Linkedin: [dat-nguyen-3aa7bb117](https://www.linkedin.com/in/dat-nguyen-3aa7bb117/)
-- Email: dat nguyen.cr@gmail.com
+- Email: datnguyen.cr@gmail.com
 
 ---
 
