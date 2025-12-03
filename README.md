@@ -12,18 +12,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - **Other Areas:** Version Control (Git), CI/CD with Fastlane
 
 ---
-## 🛠️ One Punch Programmer Training Regimen:
 
-- Master 10 programming languages—yes, all of them.
-- Deploy 100 apps to the Play Store without breaking a sweat.
-- Publish 20 web extensions—each shinier and smarter than the last.
-- Launch 20 website tools that make the internet slightly more magical.
-- Release 10 public libraries that GitHub can’t stop starring.
-- Survive coffee-less days to achieve ultimate mental toughness.
-- Attend 0 meetings—only code, only greatness.
-- Goal: Become the programmer who can fix any bug, deploy any app, and make the internet slightly better… all in a single day.
-
----
 ## 📂 Featured Projects
 
 ### Mobile Apps
@@ -85,5 +74,16 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - Email: datnguyen.cr@gmail.com
 
 ---
+## 🛠️ One Punch Programmer Training Regimen:
 
+- Master 10 programming languages—yes, all of them.
+- Deploy 100 apps to the Play Store without breaking a sweat.
+- Publish 20 web extensions—each shinier and smarter than the last.
+- Launch 20 website tools that make the internet slightly more magical.
+- Release 10 public libraries that GitHub can’t stop starring.
+- Survive coffee-less days to achieve ultimate mental toughness.
+- Attend 0 meetings—only code, only greatness.
+- Goal: Become the programmer who can fix any bug, deploy any app, and make the internet slightly better… all in a single day.
+
+---
 > “I build projects that are practical, maintainable, and fun — across mobile, desktop, and real-life experiments.”
