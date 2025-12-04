@@ -1,6 +1,6 @@
 # 👋 Hi, I'm datnguyencr
 
-I am a Mobile Software Developer skilled in both independent and team-based projects. With a strong background as a full-stack developer. <br/>
+I am a Mobile Software Developer with a strong background as a full-stack developer. <br/>
 I adapt quickly to new technologies, write clean, reusable components and libraries, and excel at delivering efficient, scalable solutions.
 
 ---
