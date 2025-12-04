@@ -73,6 +73,9 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - Linkedin: [dat-nguyen-3aa7bb117](https://www.linkedin.com/in/dat-nguyen-3aa7bb117/)
 - Email: datnguyen.cr@gmail.com
 
+
+---
+> “I build projects that are practical, maintainable, and fun — across mobile, desktop, and real-life experiments.”
 ---
 ## 🛠️ One Punch Programmer Training Regimen:
 
@@ -85,5 +88,3 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - Attend 0 meetings—only code, only greatness.
 - Goal: Become the programmer who can fix any bug, deploy any app, and make the internet slightly better… all in a single day.
 
----
-> “I build projects that are practical, maintainable, and fun — across mobile, desktop, and real-life experiments.”
