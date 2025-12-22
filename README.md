@@ -40,6 +40,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Protractor](https://play.google.com/store/apps/details?id=com.ssteam.protractor)
 - [Periodic Table](https://play.google.com/store/apps/details?id=com.ssteam.periodic_table)
 - [Planet Explorer](https://play.google.com/store/apps/details?id=com.ssteam.planet_explorer)
+- [Money Manager](https://play.google.com/store/apps/details?id=com.ssteam.money_manager)
 
 ### Web Apps
 - [Rain Simulator](https://datnguyencr.github.io/rain-simulator-web/)
@@ -53,6 +54,12 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Color Picker Cursor](https://chromewebstore.google.com/detail/color-picker-cursor/eacccbllbdkdhieahoijpbnkkdnhllnl)
 - [Web Font Override](https://chromewebstore.google.com/detail/web-font-override/bfklnnbknkgcalgnejncmfkkfohgadhj)
 
+### Tools and Libs
+- [Placeholder](https://datnguyencr.github.io/placeholder/)
+- [ASCII Art](https://datnguyencr.github.io/ascii_art/)
+- [Image Rotator](https://datnguyencr.github.io/image-rotator/)
+- [PDF To Image Converter](https://github.com/datnguyencr/pdf-to-image-converter)
+- [Image Converter](https://github.com/datnguyencr/image-converter)
 
 ## 📊 GitHub Stats
 
@@ -77,14 +84,4 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 ---
 > “I build projects that are practical, maintainable, and fun — across mobile, desktop, and real-life experiments.”
 ---
-## 🛠️ One Punch Programmer Training Regimen:
-
-- Master 10 programming languages—yes, all of them.
-- Deploy 100 apps to the Play Store without breaking a sweat.
-- Publish 20 web extensions—each shinier and smarter than the last.
-- Launch 20 website tools that make the internet slightly more magical.
-- Release 10 public libraries that GitHub can’t stop starring.
-- Survive coffee-less days to achieve ultimate mental toughness.
-- Attend 0 meetings—only code, only greatness.
-- Goal: Become the programmer who can fix any bug, deploy any app, and make the internet slightly better… all in a single day.
 
