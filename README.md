@@ -7,7 +7,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 ## 🛠️ Skills
 
-- **Languages:**  Kotlin, Java, Dart, Flutter, C#, Python, JavaScript
+- **Languages:** Kotlin, Java, Dart, Flutter, C#, Python, JavaScript
 - **Technologies & Practices:** REST APIs, Firebase, Play Store Management, OOP, Design Patterns
 - **Other Areas:** Version Control (Git), CI/CD with Fastlane
 
@@ -16,6 +16,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 ## 📂 Featured Projects
 
 ### Mobile Apps
+
 - [Yu-Gi-Oh Card Builder](https://play.google.com/store/apps/details?id=com.ssteam.yugioh_card_builder)
 - [Sliding Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.sliding_puzzle)
 - [Compass](https://play.google.com/store/apps/details?id=com.ssteam.compass)
@@ -43,35 +44,28 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Money Manager](https://play.google.com/store/apps/details?id=com.ssteam.money_manager)
 
 ### Web Apps
+
 - [Rain Simulator](https://datnguyencr.github.io/rain-simulator-web/)
+- [CV Builder](https://datnguyencr.github.io/cv-builder-web/)
 - [Planet Explorer](https://datnguyencr.github.io/planet-explorer-web/)
 - [Sudoku](https://datnguyencr.github.io/sudoku-web/)
 - [Sliding Puzzle](https://datnguyencr.github.io/sliding-puzzle-web/)
-- [CV Builder](https://datnguyencr.github.io/cv-builder-web/)
+- [Comic Nest](https://datnguyencr.github.io/comic-nest/)
+- [Kid Academy](https://datnguyencr.github.io/kid-academy/)
 
 ### Chrome Extensions
+
 - [File Downloader](https://chromewebstore.google.com/detail/file-downloader/hahkepphjffjcghlgfbeedkpmcncllag)
 - [Color Picker Cursor](https://chromewebstore.google.com/detail/color-picker-cursor/eacccbllbdkdhieahoijpbnkkdnhllnl)
 - [Web Font Override](https://chromewebstore.google.com/detail/web-font-override/bfklnnbknkgcalgnejncmfkkfohgadhj)
 
 ### Tools and Libs
+
 - [Placeholder](https://datnguyencr.github.io/placeholder/)
 - [ASCII Art](https://datnguyencr.github.io/ascii_art/)
 - [Image Rotator](https://datnguyencr.github.io/image-rotator/)
 - [PDF To Image Converter](https://github.com/datnguyencr/pdf-to-image-converter)
 - [Image Converter](https://github.com/datnguyencr/image-converter)
-
-## 📊 GitHub Stats
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=datnguyencr&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datnguyencr&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datnguyencr&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
-## 📈 Contributions
-
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datnguyencr&theme=dracula)
 
 ---
 
@@ -80,8 +74,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - Linkedin: [dat-nguyen-3aa7bb117](https://www.linkedin.com/in/dat-nguyen-3aa7bb117/)
 - Email: datnguyen.cr@gmail.com
 
-
 ---
+
 > “I build projects that are practical, maintainable, and fun — across mobile, desktop, and real-life experiments.”
----
-
