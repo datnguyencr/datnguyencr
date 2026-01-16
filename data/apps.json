@@ -1,0 +1,122 @@
+[
+    {
+        "id": "com.ssteam.yugioh_card_builder",
+        "name": "Yugioh Card Builder",
+        "icon": "https://play-lh.googleusercontent.com/ee2X-oT1Dk3AoGNd-5XJcJOoiGCOgMQNRSJmBye9Z6R24aeH-tszYn3RTJGdqPsQQQk=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.sliding_puzzle",
+        "name": "Sliding Puzzle",
+        "icon": "https://play-lh.googleusercontent.com/prKynU4Ntp8O8-_32XSDZwDV0fbKRPGiStwDBcxI-PDVpwBKaDMPte1r1Y9KA5tvHg=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.compass",
+        "name": "Compass",
+        "icon": "https://play-lh.googleusercontent.com/OKTSmXDq9qJ9xXrXuiQtvqAYd9acsLyGUMzRWByrXgEWC4-Ja0LiJOC4pE0D-GPkTys=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.sudoku",
+        "name": "Sudoku",
+        "icon": "https://play-lh.googleusercontent.com/1Af6nQ0upmnwhpbiFJx_ctw_-coc_hNfZI5kMLYOfLj2Mweu4aOf1LJKp56q_3MVBis=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.rainsimulator",
+        "name": "Rain Simulator",
+        "icon": "https://play-lh.googleusercontent.com/Lp9k7Yn2m_GXYynt190kdb1EWROLW7RxTc_6RkQRuUy7q47EJQ4CVhxxiC6St3_4ww=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.yugioh_deck_builder",
+        "name": "Yugioh Deck Builder",
+        "icon": "https://play-lh.googleusercontent.com/u-ifRTpgH8Ot-qspPeYp5I521Ch3SZmu_eOfp3zRxo1DHqiNG3WUd8I0AfkLOrshkXk=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.smart_light",
+        "name": "Smart Light",
+        "icon": "https://play-lh.googleusercontent.com/-XXCtL2qdFVMEpkuqh3UDirfA69-KkuXb_Z6rgFLHNRNbIEy63FYsleXHJcrEvACCoc4=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.apk_extractor",
+        "name": "Apk Extractor",
+        "icon": "https://play-lh.googleusercontent.com/4Fg-3LUnj_Ae0R9wNwdQRPxB1xqSELDgsc9hvBK7O4hd8ppk9mXZxWXbYWXe04XDxw=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.device_info",
+        "name": "Device Info",
+        "icon": "https://play-lh.googleusercontent.com/7vAcqIBmuDftsFWPR09dcyT7hGdzJwLDbxvKCGgOWbLBlw3TC_mQO3BW9EYk8_rFObok=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.sound_level",
+        "name": "Sound Level",
+        "icon": "https://play-lh.googleusercontent.com/fZ41qmJ7_-isEaaLmRSGDGj93c6WZ5Ae0-gZN7OLO7-sDHwXe4XrRtulu7Bp7BKQeg=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.reduce_image",
+        "name": "Reduce Image",
+        "icon": "https://play-lh.googleusercontent.com/lJRGOnwtSVroP54ou4207v43ruEwv2F7a37VNhI-ffaddQWd7yufzoKGWC39emaXIS0=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.random_generator",
+        "name": "Random Generator",
+        "icon": "https://play-lh.googleusercontent.com/Bi7pZieSmhNb3JI--tCcw8SToc_EblqHs0oD7zEXq8FIbRpEpjqaL2IqFwMAYMN5ltP0=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.tictactoe",
+        "name": "Tic Tac Toe",
+        "icon": "https://play-lh.googleusercontent.com/VytvUtVvguLZ1tPzDqYh3xmsc2sZfZYTVaTiSMB_3rL1MvcSrZb1vw7u-ur39n_dU2k=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.pokemon_card_maker",
+        "name": "Card Maker",
+        "icon": "https://play-lh.googleusercontent.com/1y6V-_FySDeK6GyR2VfejSDS3bSZmn08X9TezJNxNLj8592Zc5Mpzz57gbZF6XEu81-z=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.country_flags",
+        "name": "Country Flags",
+        "icon": "https://play-lh.googleusercontent.com/1uCJDsMPzZuWjuSN0CdaMjD6giU2umsH39HMHOFlexhz-DpGonUZTfiFMCJwJDkzJiMU=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.gridtool",
+        "name": "Grid Tool",
+        "icon": "https://play-lh.googleusercontent.com/HLM7oCmjRQb78Zp8ZzusmytH8JKCOzaYJoeDN4D10gFzW_5j631aIiFzBCeu6IwNAA=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.cv_builder",
+        "name": "CV Builder",
+        "icon": "https://play-lh.googleusercontent.com/9Lwfn5WWsqlqXCVKO8aIEMCjlo9YaqI-xtCXdAXaaFsToofS6zbJgUecUDJ0W1mNcFXT=s256-rw"
+    },
+    {
+        "id": "com.ssteam.iq_test",
+        "name": "IQ Test",
+        "icon": "https://play-lh.googleusercontent.com/85coVu1ACMvAm0MBidi5b1UDbpjfWJg95ZQANyHrdLg9o-sDJgXaHXc_V4fnbhb5VLB-=s256-rw"
+    },
+    {
+        "id": "com.ssteam.poecurrency",
+        "name": "PoE Currency",
+        "icon": "https://play-lh.googleusercontent.com/5qdLpr7pDkpjRwx3uCiPKJNNs17Oe9380p8HZ1XxbZ63u6l_icLupQk0KC7PP8Nb5wk=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.bubble_level",
+        "name": "Bubble Level",
+        "icon": "https://play-lh.googleusercontent.com/YE3sVjdSGW_OP2dIecHSrJlsZvK9y5-4ZzhVQBRI26i7T3FYZ_g83uYi5x1S8hpBXg=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.qr_manager",
+        "name": "QR Manager",
+        "icon": "https://play-lh.googleusercontent.com/uY-6Hid9FceaVu6caPXIHrYrJmM7u2Hnquv4T0B67dB42cC72u5WHMnl8s1Ot-1lCcg=s256-rw"
+    },
+    {
+        "id": "com.ssteam.protractor",
+        "name": "Protractor",
+        "icon": "https://play-lh.googleusercontent.com/FKL2ci0A4AoyGId2MWk3lUo5_UAGtG8onn0FHbTxnsDbzTmgvcc_tt1KMoNpJARRvfU=s256-rw"
+    },
+    {
+        "id": "com.ssteam.periodic_table",
+        "name": "Periodic Table",
+        "icon": "https://play-lh.googleusercontent.com/Gz1HgqF3P4hv36e2IgyJXcCXg0ZPuEMhg_4spoBDIRq0YOKLH2y1LAehAR79TJlj1nI=s256-rw"
+    },
+    {
+        "id": "com.ssteam.planet_explorer",
+        "name": "Planet Explorer",
+        "icon": "https://play-lh.googleusercontent.com/XwFoaOx9FWPas40y_8evlmaUNgZDb0srg95Iu-Wp9mx5_8OV9Akr1KupXh-qcVyiYCRu=s256-rw"
+    }
+]
