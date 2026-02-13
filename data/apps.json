@@ -118,5 +118,10 @@
         "id": "com.ssteam.planet_explorer",
         "name": "Planet Explorer",
         "icon": "https://play-lh.googleusercontent.com/XwFoaOx9FWPas40y_8evlmaUNgZDb0srg95Iu-Wp9mx5_8OV9Akr1KupXh-qcVyiYCRu=s256-rw"
+    },
+    {
+        "id": "com.ssteam.animal_connect",
+        "name": "Animal Connect",
+        "icon": "https://play-lh.googleusercontent.com/o7Yqm8J7zv7riBE7zL5Cn_WetuvOSuH7Y-HCoG-q78RFMJiNDP91mOuIi-jgK9OlKa4BPSmXlmhOG01pnYIxOQ=w240-h480-rw"
     }
 ]

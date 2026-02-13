@@ -5,6 +5,11 @@
         "icon": "https://play-lh.googleusercontent.com/Lp9k7Yn2m_GXYynt190kdb1EWROLW7RxTc_6RkQRuUy7q47EJQ4CVhxxiC6St3_4ww=w240-h480-rw"
     },
     {
+        "url": "https://datnguyencr.github.io/cv-builder-web/",
+        "name": "CV Builder",
+        "icon": "https://play-lh.googleusercontent.com/9Lwfn5WWsqlqXCVKO8aIEMCjlo9YaqI-xtCXdAXaaFsToofS6zbJgUecUDJ0W1mNcFXT=s256-rw"
+    },
+    {
         "url": "https://datnguyencr.github.io/planet-explorer-web/",
         "name": "Planet Explorer",
         "icon": "https://play-lh.googleusercontent.com/XwFoaOx9FWPas40y_8evlmaUNgZDb0srg95Iu-Wp9mx5_8OV9Akr1KupXh-qcVyiYCRu=s256-rw"
@@ -18,10 +23,5 @@
         "url": "https://datnguyencr.github.io/sliding-puzzle-web/",
         "name": "Sliding Puzzle",
         "icon": "https://play-lh.googleusercontent.com/prKynU4Ntp8O8-_32XSDZwDV0fbKRPGiStwDBcxI-PDVpwBKaDMPte1r1Y9KA5tvHg=w240-h480-rw"
-    },
-    {
-        "url": "https://datnguyencr.github.io/cv-builder-web/",
-        "name": "CV Builder",
-        "icon": "https://play-lh.googleusercontent.com/9Lwfn5WWsqlqXCVKO8aIEMCjlo9YaqI-xtCXdAXaaFsToofS6zbJgUecUDJ0W1mNcFXT=s256-rw"
     }
 ]

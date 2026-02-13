@@ -41,14 +41,15 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Protractor](https://play.google.com/store/apps/details?id=com.ssteam.protractor)
 - [Periodic Table](https://play.google.com/store/apps/details?id=com.ssteam.periodic_table)
 - [Planet Explorer](https://play.google.com/store/apps/details?id=com.ssteam.planet_explorer)
+- [Animal Connect](https://play.google.com/store/apps/details?id=com.ssteam.animal_connect)
 
 ### Web Apps
 
 - [Rain Simulator](https://datnguyencr.github.io/rain-simulator-web/)
+- [CV Builder](https://datnguyencr.github.io/cv-builder-web/)
 - [Planet Explorer](https://datnguyencr.github.io/planet-explorer-web/)
 - [Sudoku](https://datnguyencr.github.io/sudoku-web/)
 - [Sliding Puzzle](https://datnguyencr.github.io/sliding-puzzle-web/)
-- [CV Builder](https://datnguyencr.github.io/cv-builder-web/)
 
 ### Chrome Extensions
 
@@ -69,6 +70,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 - Linkedin: [dat-nguyen-3aa7bb117](https://www.linkedin.com/in/dat-nguyen-3aa7bb117/)
 - Email: datnguyen.cr@gmail.com
+- portfolio: [portfolio](https://datnguyencr.github.io/portfolio/)
 
 ---
 

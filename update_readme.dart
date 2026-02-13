@@ -85,6 +85,7 @@ String _contact() => '''
 
 - Linkedin: [dat-nguyen-3aa7bb117](https://www.linkedin.com/in/dat-nguyen-3aa7bb117/)
 - Email: datnguyen.cr@gmail.com
+- portfolio: [portfolio](https://datnguyencr.github.io/portfolio/)
 
 ---
 ''';
