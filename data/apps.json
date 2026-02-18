@@ -123,5 +123,15 @@
         "id": "com.ssteam.animal_connect",
         "name": "Animal Connect",
         "icon": "https://play-lh.googleusercontent.com/o7Yqm8J7zv7riBE7zL5Cn_WetuvOSuH7Y-HCoG-q78RFMJiNDP91mOuIi-jgK9OlKa4BPSmXlmhOG01pnYIxOQ=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.cube_solver",
+        "name": "Cube Solver",
+        "icon": "https://play-lh.googleusercontent.com/b-ELj-kZDcHRbJZ5qxQgJDyzyBCv_zNDXz17INFsl26JHllyiT7G-OfEdeBCVH5HX-v_M9tUBi0QFCogVXGLLBg=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.pixeldrawer",
+        "name": "Pixel Drawer",
+        "icon": "https://play-lh.googleusercontent.com/RP5lwbhgbP8iTBy5S_yet5UeuDxH3ym9RhPiSdg43BYOSe3wq_cU1Uu6fkj9cIfqQyXus1E6B_rquaZTVXdKDhE=w240-h480-rw"
     }
 ]
