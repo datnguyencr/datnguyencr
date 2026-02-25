@@ -3,16 +3,35 @@
         "id": "com.ssteam.yugioh_card_builder",
         "name": "Yugioh Card Builder",
         "icon": "https://play-lh.googleusercontent.com/ee2X-oT1Dk3AoGNd-5XJcJOoiGCOgMQNRSJmBye9Z6R24aeH-tszYn3RTJGdqPsQQQk=w240-h480-rw"
+    },    {
+        "id": "com.ssteam.chess",
+        "name": "Daily Chess",
+        "icon": "https://play-lh.googleusercontent.com/CRt0FZfhtqsKB4sdF44JR0VACBrWlkNlpRsy6fyk4n95kOeguWxQy0y3i5lXt0oU8T2U7ngW8qA3ibWFQFh9zw=w240-h480-rw"
     },
     {
         "id": "com.ssteam.sliding_puzzle",
         "name": "Sliding Puzzle",
         "icon": "https://play-lh.googleusercontent.com/prKynU4Ntp8O8-_32XSDZwDV0fbKRPGiStwDBcxI-PDVpwBKaDMPte1r1Y9KA5tvHg=w240-h480-rw"
     },
+	    {
+        "id": "com.ssteam.animal_connect",
+        "name": "Animal Connect",
+        "icon": "https://play-lh.googleusercontent.com/o7Yqm8J7zv7riBE7zL5Cn_WetuvOSuH7Y-HCoG-q78RFMJiNDP91mOuIi-jgK9OlKa4BPSmXlmhOG01pnYIxOQ=w240-h480-rw"
+    },
+    {
+        "id": "com.ssteam.cube_solver",
+        "name": "Cube Solver",
+        "icon": "https://play-lh.googleusercontent.com/b-ELj-kZDcHRbJZ5qxQgJDyzyBCv_zNDXz17INFsl26JHllyiT7G-OfEdeBCVH5HX-v_M9tUBi0QFCogVXGLLBg=w240-h480-rw"
+    },
     {
         "id": "com.ssteam.compass",
         "name": "Compass",
         "icon": "https://play-lh.googleusercontent.com/OKTSmXDq9qJ9xXrXuiQtvqAYd9acsLyGUMzRWByrXgEWC4-Ja0LiJOC4pE0D-GPkTys=w240-h480-rw"
+    },    
+	{
+        "id": "com.ssteam.api_forge",
+        "name": "Api Forge",
+        "icon": "https://play-lh.googleusercontent.com/wcV8g9V30gPrLIxS6OILGocZGKtZEcHIVmZhgg1pxiyWE7a_PnjLmiX8ZdXTnP17Ocv0Db5cks3kTH1wi1kM3Q=w240-h480-rw"
     },
     {
         "id": "com.ssteam.sudoku",
@@ -120,18 +139,17 @@
         "icon": "https://play-lh.googleusercontent.com/XwFoaOx9FWPas40y_8evlmaUNgZDb0srg95Iu-Wp9mx5_8OV9Akr1KupXh-qcVyiYCRu=s256-rw"
     },
     {
-        "id": "com.ssteam.animal_connect",
-        "name": "Animal Connect",
-        "icon": "https://play-lh.googleusercontent.com/o7Yqm8J7zv7riBE7zL5Cn_WetuvOSuH7Y-HCoG-q78RFMJiNDP91mOuIi-jgK9OlKa4BPSmXlmhOG01pnYIxOQ=w240-h480-rw"
-    },
-    {
-        "id": "com.ssteam.cube_solver",
-        "name": "Cube Solver",
-        "icon": "https://play-lh.googleusercontent.com/b-ELj-kZDcHRbJZ5qxQgJDyzyBCv_zNDXz17INFsl26JHllyiT7G-OfEdeBCVH5HX-v_M9tUBi0QFCogVXGLLBg=w240-h480-rw"
-    },
-    {
         "id": "com.ssteam.pixeldrawer",
         "name": "Pixel Drawer",
         "icon": "https://play-lh.googleusercontent.com/RP5lwbhgbP8iTBy5S_yet5UeuDxH3ym9RhPiSdg43BYOSe3wq_cU1Uu6fkj9cIfqQyXus1E6B_rquaZTVXdKDhE=w240-h480-rw"
-    }
-]
+    },
+	   {
+        "id": "com.ssteam.boucingball",
+        "name": "Bouncing Ball - Live Wallpaper",
+        "icon": "https://play-lh.googleusercontent.com/YUuqF_df47kiDHfOP0cIvLGSuK2AmybamrxknWUsZ0q80k-roGtSjuEHRXiSWYLcNV0znaJlEKOnj8B663aVXg=w240-h480-rw"
+    },
+	   {
+        "id": "com.ssteam.interest_calculator",
+        "name": "Công Cụ Tính Lãi Suất",
+        "icon": "https://play-lh.googleusercontent.com/KJCdkcPDgB4dircTO6a2hjwSLOX08V-ES3bGiTXYhPfeLAhO_-kXsufc3Eifw2Z5bOjnvwgLLIWiKINujto1eA=w240-h480-rw"
+    }]
