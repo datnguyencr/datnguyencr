@@ -42,6 +42,10 @@
         "id": "com.ssteam.rainsimulator",
         "name": "Rain Simulator",
         "icon": "https://play-lh.googleusercontent.com/Lp9k7Yn2m_GXYynt190kdb1EWROLW7RxTc_6RkQRuUy7q47EJQ4CVhxxiC6St3_4ww=w240-h480-rw"
+    },    {
+        "id": "com.ssteam.money_manager",
+        "name": "Money Manager",
+        "icon": "https://play-lh.googleusercontent.com/XXFG6e0N-DYZDKrkj6Qv0Cmmd0cxoOpH2BtT8xwjd7jG-foy5NekibBoaJgcK0iWERqJ7krDRCQRE0dxTX4U=w240-h480-rw"
     },
     {
         "id": "com.ssteam.yugioh_deck_builder",
