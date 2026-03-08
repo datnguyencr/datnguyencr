@@ -23,6 +23,16 @@
         "name": "Cube Solver",
         "icon": "https://play-lh.googleusercontent.com/b-ELj-kZDcHRbJZ5qxQgJDyzyBCv_zNDXz17INFsl26JHllyiT7G-OfEdeBCVH5HX-v_M9tUBi0QFCogVXGLLBg=w240-h480-rw"
     },
+	    {
+        "id": "com.ssteam.gplx",
+        "name": "Ôn Thi GPLX",
+        "icon": "https://play-lh.googleusercontent.com/oFEcBNMa4XvJhj8R-Ekwqq6JmVWO3645KnxSfzUPh15BV6JvQOdohfrXOPlCefR0fV5aEHGgmxqbfMZknNL2Ag=w240-h480-rw"
+    },
+	    {
+        "id": "com.ssteam.blood_sugar_monitor",
+        "name": "Blood Sugar Monitor",
+        "icon": "https://play-lh.googleusercontent.com/TgLThZwvvUyFl9MUlgS_TL_4vpj0C203V3HJQX9GoFKxR27cV1ofFvkP3UoBV4gyNQxOtXDZaHiBdvDuQTsO=w240-h480-rw"
+    },
     {
         "id": "com.ssteam.compass",
         "name": "Compass",
