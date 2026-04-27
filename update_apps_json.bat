@@ -1,0 +1,1 @@
+python update_apps_json.py

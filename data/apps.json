@@ -20,6 +20,11 @@
         "icon": "https://play-lh.googleusercontent.com/ITzcdpm4HgXLZVCkxmiJE7Zlu3X3T6Eox6AaoUF6FerauyeV-2HiDlTCOObXw8eLTrTbvMzjH2_YNemw1t0"
     },
     {
+        "id": "com.ssteam.aqua_guppy",
+        "name": "Aqua Guppy",
+        "icon": "https://play-lh.googleusercontent.com/8OLHjQ7QlqrF-0tMCOdVeTXgiuZGUhNmZN_IKCJgbU25UGa-9Ahn5gMnDAhrR9bhfmulRaZmrdNN_L7_SSIw"
+    },
+    {
         "id": "com.ssteam.blood_sugar_monitor",
         "name": "Blood Sugar Monitor",
         "icon": "https://play-lh.googleusercontent.com/TgLThZwvvUyFl9MUlgS_TL_4vpj0C203V3HJQX9GoFKxR27cV1ofFvkP3UoBV4gyNQxOtXDZaHiBdvDuQTsO"
@@ -85,6 +90,11 @@
         "icon": "https://play-lh.googleusercontent.com/85coVu1ACMvAm0MBidi5b1UDbpjfWJg95ZQANyHrdLg9o-sDJgXaHXc_V4fnbhb5VLB-"
     },
     {
+        "id": "com.ssteam.jigsaw_puzzle",
+        "name": "Jigsaw Puzzle",
+        "icon": "https://play-lh.googleusercontent.com/KQSirwAXQi0omutmXoPDxqM1u-CWWSPXJgTcSbb3VjCGJOl2ZzFvg2f6hIq5hRRh3Cs0OXCG_WLYgV9fx_oAzw"
+    },
+    {
         "id": "com.ssteam.luna_calendar",
         "name": "Lịch Vạn Niên",
         "icon": "https://play-lh.googleusercontent.com/DCy6_CAu2xxd52egqVMNXus4aOa8kp7WEqk_DSpFX8BGSue2_ylUvcL--ZhovRWK1vg0naQbahAoBumpDg4zcw"
@@ -98,6 +108,11 @@
         "id": "com.ssteam.medicinal_herbs",
         "name": "Medicinal Herbs",
         "icon": "https://play-lh.googleusercontent.com/TkT4eEdTyfcX4l00jjFVFdV9cFV8etVh_tYZNHHHKj-aFvV4a8ISBoc8W05Fv4TIsrlb0srvmSTTXPfS2-UR"
+    },
+    {
+        "id": "com.ssteam.memory_test",
+        "name": "Memory Test",
+        "icon": "https://play-lh.googleusercontent.com/QpdK8UKIVePz6JO2XSpOe6VveSZn3Jtq_1Evhdll9pyFNBoNwGE_5sLs564DD-6O4njB1zPUz9zGrSLr-uhQqQ"
     },
     {
         "id": "com.ssteam.mewpedia",
@@ -180,6 +195,11 @@
         "icon": "https://play-lh.googleusercontent.com/fZ41qmJ7_-isEaaLmRSGDGj93c6WZ5Ae0-gZN7OLO7-sDHwXe4XrRtulu7Bp7BKQeg"
     },
     {
+        "id": "com.ssteam.stock_simulator",
+        "name": "Stock Simulator",
+        "icon": "https://play-lh.googleusercontent.com/jgj4qRf2hIeUflrRiwKPLysdHxQF4ATzZZRUo73M-38B3zo6YG7wqPr26yvcgMBUvz8NPP58eAHCdADMdcvDD-c"
+    },
+    {
         "id": "com.ssteam.sudoku",
         "name": "Sudoku",
         "icon": "https://play-lh.googleusercontent.com/du7PxHCXKkqCg-IFqxbkQeK3t6JgZwDSTo_nQQX4oXY2-7yBixCvDy4dBa__wh64JA"
@@ -191,7 +211,7 @@
     },
     {
         "id": "com.ssteam.yugioh_card_builder",
-        "name": "YGO Card Builder",
+        "name": "Yugioh Card Builder",
         "icon": "https://play-lh.googleusercontent.com/ee2X-oT1Dk3AoGNd-5XJcJOoiGCOgMQNRSJmBye9Z6R24aeH-tszYn3RTJGdqPsQQQk"
     },
     {
