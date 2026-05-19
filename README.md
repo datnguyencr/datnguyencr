@@ -15,7 +15,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 ## 📂 Featured Projects
 
-### Mobile Apps
+### Mobile Apps [53]
 
 - [Animal Connect](https://play.google.com/store/apps/details?id=com.ssteam.animal_connect)
 - [Api Forge](https://play.google.com/store/apps/details?id=com.ssteam.api_forge)
@@ -26,6 +26,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Bouncing Ball - Live Wallpaper](https://play.google.com/store/apps/details?id=com.ssteam.boucingball)
 - [Bubble Level](https://play.google.com/store/apps/details?id=com.ssteam.bubble_level)
 - [CV Builder](https://play.google.com/store/apps/details?id=com.ssteam.cv_builder)
+- [Calculator Vault](https://play.google.com/store/apps/details?id=com.ssteam.hide_files_calculator)
 - [Card Maker](https://play.google.com/store/apps/details?id=com.ssteam.pokemon_card_maker)
 - [Compass](https://play.google.com/store/apps/details?id=com.ssteam.compass)
 - [Country Flags](https://play.google.com/store/apps/details?id=com.ssteam.country_flags)
@@ -36,6 +37,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [D2 Wiki](https://play.google.com/store/apps/details?id=com.ssteam.d2_wiki)
 - [Daily Chess](https://play.google.com/store/apps/details?id=com.ssteam.chess)
 - [Device Info](https://play.google.com/store/apps/details?id=com.ssteam.device_info)
+- [Game of Life](https://play.google.com/store/apps/details?id=com.ssteam.game_of_life)
 - [Grid Tool](https://play.google.com/store/apps/details?id=com.ssteam.gridtool)
 - [IQ Test](https://play.google.com/store/apps/details?id=com.ssteam.iq_test)
 - [Jigsaw Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.jigsaw_puzzle)
@@ -58,6 +60,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Rain Simulator](https://play.google.com/store/apps/details?id=com.ssteam.rainsimulator)
 - [Random Generator](https://play.google.com/store/apps/details?id=com.ssteam.random_generator)
 - [Reduce Image](https://play.google.com/store/apps/details?id=com.ssteam.reduce_image)
+- [Reflex Game](https://play.google.com/store/apps/details?id=com.ssteam.reflex_game)
 - [Sliding Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.sliding_puzzle)
 - [Smart Light](https://play.google.com/store/apps/details?id=com.ssteam.smart_light)
 - [Sound Level](https://play.google.com/store/apps/details?id=com.ssteam.sound_level)
@@ -68,7 +71,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Yugioh Deck Builder](https://play.google.com/store/apps/details?id=com.ssteam.yugioh_deck_builder)
 - [Ôn Thi GPLX](https://play.google.com/store/apps/details?id=com.ssteam.gplx)
 
-### Web Apps
+### Web Apps [5]
 
 - [Rain Simulator](https://datnguyencr.github.io/rain-simulator-web/)
 - [CV Builder](https://datnguyencr.github.io/cv-builder-web/)
@@ -76,7 +79,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Sudoku](https://datnguyencr.github.io/sudoku-web/)
 - [Sliding Puzzle](https://datnguyencr.github.io/sliding-puzzle-web/)
 
-### Chrome Extensions
+### Chrome Extensions[3]
 
 - [File Downloader](https://chromewebstore.google.com/detail/file-downloader/hahkepphjffjcghlgfbeedkpmcncllag)
 - [Color Picker Cursor](https://chromewebstore.google.com/detail/color-picker-cursor/eacccbllbdkdhieahoijpbnkkdnhllnl)

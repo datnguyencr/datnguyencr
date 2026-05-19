@@ -13,7 +13,7 @@ void main() {
 
   buffer.writeln('## 📂 Featured Projects\n');
 
-  buffer.writeln('### Mobile Apps\n');
+  buffer.writeln('### Mobile Apps [${apps.length}]\n');
   for (final app in apps) {
     final id = app['id'];
     final name = app['name'];
@@ -21,12 +21,12 @@ void main() {
         '- [$name](https://play.google.com/store/apps/details?id=$id)');
   }
 
-  buffer.writeln('\n### Web Apps\n');
+  buffer.writeln('\n### Web Apps [${webs.length}]\n');
   for (final web in webs) {
     buffer.writeln('- [${web['name']}](${web['url']})');
   }
 
-  buffer.writeln('\n### Chrome Extensions\n');
+  buffer.writeln('\n### Chrome Extensions[${chrome.length}]\n');
   for (final ext in chrome) {
     buffer.writeln('- [${ext['name']}](${ext['url']})');
   }
