@@ -15,7 +15,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 ## 📂 Featured Projects
 
-### Mobile Apps [53]
+### Mobile Apps [57]
 
 - [Animal Connect](https://play.google.com/store/apps/details?id=com.ssteam.animal_connect)
 - [Api Forge](https://play.google.com/store/apps/details?id=com.ssteam.api_forge)
@@ -28,6 +28,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [CV Builder](https://play.google.com/store/apps/details?id=com.ssteam.cv_builder)
 - [Calculator Vault](https://play.google.com/store/apps/details?id=com.ssteam.hide_files_calculator)
 - [Card Maker](https://play.google.com/store/apps/details?id=com.ssteam.pokemon_card_maker)
+- [Chess Clock](https://play.google.com/store/apps/details?id=com.ssteam.chess_clock)
 - [Compass](https://play.google.com/store/apps/details?id=com.ssteam.compass)
 - [Country Flags](https://play.google.com/store/apps/details?id=com.ssteam.country_flags)
 - [Cube Solver](https://play.google.com/store/apps/details?id=com.ssteam.cube_solver)
@@ -48,6 +49,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Medicinal Herbs](https://play.google.com/store/apps/details?id=com.ssteam.medicinal_herbs)
 - [Memory Test](https://play.google.com/store/apps/details?id=com.ssteam.memory_test)
 - [Mewpedia – Cat Encyclopedia](https://play.google.com/store/apps/details?id=com.ssteam.mewpedia)
+- [Minimal Clock](https://play.google.com/store/apps/details?id=com.ssteam.minimal_clock)
 - [Money Manager](https://play.google.com/store/apps/details?id=com.ssteam.money_manager)
 - [Pawpedia – Dog Encyclopedia](https://play.google.com/store/apps/details?id=com.ssteam.pawpedia)
 - [Periodic Table](https://play.google.com/store/apps/details?id=com.ssteam.periodic_table)
@@ -64,9 +66,11 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Sliding Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.sliding_puzzle)
 - [Smart Light](https://play.google.com/store/apps/details?id=com.ssteam.smart_light)
 - [Sound Level](https://play.google.com/store/apps/details?id=com.ssteam.sound_level)
+- [Speed Test](https://play.google.com/store/apps/details?id=com.ssteam.speed_test)
 - [Stock Simulator](https://play.google.com/store/apps/details?id=com.ssteam.stock_simulator)
 - [Sudoku](https://play.google.com/store/apps/details?id=com.ssteam.sudoku)
 - [Tic Tac Toe](https://play.google.com/store/apps/details?id=com.ssteam.tictactoe)
+- [WiFi Analyzer](https://play.google.com/store/apps/details?id=com.ssteam.wifi_analyzer)
 - [Yugioh Card Builder](https://play.google.com/store/apps/details?id=com.ssteam.yugioh_card_builder)
 - [Yugioh Deck Builder](https://play.google.com/store/apps/details?id=com.ssteam.yugioh_deck_builder)
 - [Ôn Thi GPLX](https://play.google.com/store/apps/details?id=com.ssteam.gplx)
