@@ -80,19 +80,9 @@
         "icon": "https://play-lh.googleusercontent.com/KJCdkcPDgB4dircTO6a2hjwSLOX08V-ES3bGiTXYhPfeLAhO_-kXsufc3Eifw2Z5bOjnvwgLLIWiKINujto1eA"
     },
     {
-        "id": "com.ssteam.d2_items",
-        "name": "D2 Items",
-        "icon": "https://play-lh.googleusercontent.com/wdAPItdrqerqTevX7y5O35D4cxz_g4ohEGJj9nohjtEXgr3x51KbhzSblj2wLHAnFeJM39qJSIuRAvXvN0lJ_g"
-    },
-    {
         "id": "com.ssteam.d2_tools",
         "name": "D2 Tools",
         "icon": "https://play-lh.googleusercontent.com/59JqgAHnuc_Q-S7vIVRYTftzbIwvtyj12i28Phprwn87tUFA-27Q5dharoX4AP4wrId-0AZuReSubJV2mtq3"
-    },
-    {
-        "id": "com.ssteam.d2_wiki",
-        "name": "D2 Wiki",
-        "icon": "https://play-lh.googleusercontent.com/wTcpj8I5_fzYRJodEnM2AQnabLzCkOSxZIfdsIEfPhKmJ3S8w5-6zGRdsW4uJobI0ArsuW3ya0EXIeIU478h"
     },
     {
         "id": "com.ssteam.chess",
@@ -103,6 +93,16 @@
         "id": "com.ssteam.device_info",
         "name": "Device Info",
         "icon": "https://play-lh.googleusercontent.com/7vAcqIBmuDftsFWPR09dcyT7hGdzJwLDbxvKCGgOWbLBlw3TC_mQO3BW9EYk8_rFObok"
+    },
+    {
+        "id": "com.ssteam.d2_items",
+        "name": "Diablo 2 Items",
+        "icon": "https://play-lh.googleusercontent.com/wdAPItdrqerqTevX7y5O35D4cxz_g4ohEGJj9nohjtEXgr3x51KbhzSblj2wLHAnFeJM39qJSIuRAvXvN0lJ_g"
+    },
+    {
+        "id": "com.ssteam.d2_wiki",
+        "name": "Diablo 2 Wiki",
+        "icon": "https://play-lh.googleusercontent.com/wTcpj8I5_fzYRJodEnM2AQnabLzCkOSxZIfdsIEfPhKmJ3S8w5-6zGRdsW4uJobI0ArsuW3ya0EXIeIU478h"
     },
     {
         "id": "com.ssteam.game_of_life",
