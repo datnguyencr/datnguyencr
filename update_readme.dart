@@ -63,16 +63,21 @@ void _writeTwoColumnSection({
   buffer.writeln('<tr>');
   buffer.writeln('<td valign="top" width="50%">');
 
-  for (final item in left) {
-    buffer.writeln('- $item \n');
-  }
+buffer.writeln('<ul>');
+for (final item in left) {
+  buffer.writeln('<li>$item</li>');
+}
+buffer.writeln('</ul>');
+
 
   buffer.writeln('</td>');
   buffer.writeln('<td valign="top" width="50%">');
 
-  for (final item in right) {
-    buffer.writeln('- $item\n');
-  }
+buffer.writeln('<ul>');
+for (final item in right) {
+  buffer.writeln('<li>$item</li>');
+}
+buffer.writeln('</ul>');
 
   buffer.writeln('</td>');
   buffer.writeln('</tr>');
