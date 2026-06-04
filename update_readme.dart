@@ -11,35 +11,35 @@ void main() {
   buffer.writeln(_header());
   buffer.writeln(_skills());
 
-buffer.writeln('## 📂 Featured Projects\n');
+  buffer.writeln('## 📂 Featured Projects\n');
 
-_writeTwoColumnSection(
-  buffer: buffer,
-  title: '📱 Mobile Apps (${apps.length})',
-items: apps.map<String>((app) {
-  return _link(
-    app['name'],
-    'https://play.google.com/store/apps/details?id=${app['id']}',
+  _writeTwoColumnSection(
+    buffer: buffer,
+    title: '📱 Mobile Apps (${apps.length})',
+    items: apps.map<String>((item) {
+      return _link(
+        item['name'],
+        'https://play.google.com/store/apps/details?id=${item['id']}',
+      );
+    }).toList(),
   );
-}).toList(),
-);
 
-_writeTwoColumnSection(
-  buffer: buffer,
-  title: '🌐 Web Apps (${webs.length})',
-  items: webs
-      .map((web) => '[${web['name']}](${web['url']})')
-      .toList(),
-);
+  _writeTwoColumnSection(
+    buffer: buffer,
+    title: '🌐 Web Apps (${webs.length})',
 
+    items: webs.map<String>((item) {
+      return _link(item['name'], item['url']);
+    }).toList(),
+  );
 
-_writeTwoColumnSection(
-  buffer: buffer,
-  title: '🧩 Chrome Extensions (${chrome.length})',
-  items: chrome
-      .map((ext) => '[${ext['name']}](${ext['url']})')
-      .toList(),
-);
+  _writeTwoColumnSection(
+    buffer: buffer,
+    title: '🧩 Chrome Extensions (${chrome.length})',
+    items: chrome.map<String>((item) {
+      return _link(item['name'], item['url']);
+    }).toList(),
+  );
 
   buffer.writeln(_tools());
   buffer.writeln(_contact());
@@ -49,6 +49,7 @@ _writeTwoColumnSection(
 
   print('README.md generated successfully');
 }
+
 String _link(String name, String url) => '<a href="$url">$name</a>';
 
 void _writeTwoColumnSection({
@@ -66,26 +67,26 @@ void _writeTwoColumnSection({
   buffer.writeln('<tr>');
   buffer.writeln('<td valign="top" width="50%">');
 
-buffer.writeln('<ul>');
-for (final item in left) {
-  buffer.writeln('<li>$item</li>');
-}
-buffer.writeln('</ul>');
-
+  buffer.writeln('<ul>');
+  for (final item in left) {
+    buffer.writeln('<li>$item</li>');
+  }
+  buffer.writeln('</ul>');
 
   buffer.writeln('</td>');
   buffer.writeln('<td valign="top" width="50%">');
 
-buffer.writeln('<ul>');
-for (final item in right) {
-  buffer.writeln('<li>$item</li>');
-}
-buffer.writeln('</ul>');
+  buffer.writeln('<ul>');
+  for (final item in right) {
+    buffer.writeln('<li>$item</li>');
+  }
+  buffer.writeln('</ul>');
 
   buffer.writeln('</td>');
   buffer.writeln('</tr>');
   buffer.writeln('</table>\n');
 }
+
 List<Map<String, dynamic>> _readJsonList(String path) {
   final file = File(path);
 

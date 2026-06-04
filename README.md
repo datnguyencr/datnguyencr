@@ -95,15 +95,15 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <tr>
 <td valign="top" width="50%">
 <ul>
-<li>[Rain Simulator](https://datnguyencr.github.io/rain-simulator-web/)</li>
-<li>[CV Builder](https://datnguyencr.github.io/cv-builder-web/)</li>
-<li>[Planet Explorer](https://datnguyencr.github.io/planet-explorer-web/)</li>
+<li><a href="https://datnguyencr.github.io/rain-simulator-web/">Rain Simulator</a></li>
+<li><a href="https://datnguyencr.github.io/cv-builder-web/">CV Builder</a></li>
+<li><a href="https://datnguyencr.github.io/planet-explorer-web/">Planet Explorer</a></li>
 </ul>
 </td>
 <td valign="top" width="50%">
 <ul>
-<li>[Sudoku](https://datnguyencr.github.io/sudoku-web/)</li>
-<li>[Sliding Puzzle](https://datnguyencr.github.io/sliding-puzzle-web/)</li>
+<li><a href="https://datnguyencr.github.io/sudoku-web/">Sudoku</a></li>
+<li><a href="https://datnguyencr.github.io/sliding-puzzle-web/">Sliding Puzzle</a></li>
 </ul>
 </td>
 </tr>
@@ -115,13 +115,13 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <tr>
 <td valign="top" width="50%">
 <ul>
-<li>[File Downloader](https://chromewebstore.google.com/detail/file-downloader/hahkepphjffjcghlgfbeedkpmcncllag)</li>
-<li>[Color Picker Cursor](https://chromewebstore.google.com/detail/color-picker-cursor/eacccbllbdkdhieahoijpbnkkdnhllnl)</li>
+<li><a href="https://chromewebstore.google.com/detail/file-downloader/hahkepphjffjcghlgfbeedkpmcncllag">File Downloader</a></li>
+<li><a href="https://chromewebstore.google.com/detail/color-picker-cursor/eacccbllbdkdhieahoijpbnkkdnhllnl">Color Picker Cursor</a></li>
 </ul>
 </td>
 <td valign="top" width="50%">
 <ul>
-<li>[Web Font Override](https://chromewebstore.google.com/detail/web-font-override/bfklnnbknkgcalgnejncmfkkfohgadhj)</li>
+<li><a href="https://chromewebstore.google.com/detail/web-font-override/bfklnnbknkgcalgnejncmfkkfohgadhj">Web Font Override</a></li>
 </ul>
 </td>
 </tr>
