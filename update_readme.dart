@@ -16,12 +16,12 @@ buffer.writeln('## 📂 Featured Projects\n');
 _writeTwoColumnSection(
   buffer: buffer,
   title: '📱 Mobile Apps (${apps.length})',
-  items: apps
-      .map(
-        (app) =>
-            '[${app['name']}](https://play.google.com/store/apps/details?id=${app['id']})',
-      )
-      .toList(),
+items: apps.map<String>((app) {
+  return _link(
+    app['name'],
+    'https://play.google.com/store/apps/details?id=${app['id']}',
+  );
+}).toList(),
 );
 
 _writeTwoColumnSection(
@@ -31,6 +31,7 @@ _writeTwoColumnSection(
       .map((web) => '[${web['name']}](${web['url']})')
       .toList(),
 );
+
 
 _writeTwoColumnSection(
   buffer: buffer,
@@ -48,6 +49,8 @@ _writeTwoColumnSection(
 
   print('README.md generated successfully');
 }
+String _link(String name, String url) => '<a href="$url">$name</a>';
+
 void _writeTwoColumnSection({
   required StringBuffer buffer,
   required String title,

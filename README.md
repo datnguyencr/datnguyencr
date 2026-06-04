@@ -23,67 +23,67 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <tr>
 <td valign="top" width="50%">
 <ul>
-<li>[Animal Connect](https://play.google.com/store/apps/details?id=com.ssteam.animal_connect)</li>
-<li>[Api Forge](https://play.google.com/store/apps/details?id=com.ssteam.api_forge)</li>
-<li>[Apk Extractor](https://play.google.com/store/apps/details?id=com.ssteam.apk_extractor)</li>
-<li>[App Lock](https://play.google.com/store/apps/details?id=com.ssteam.app_lock)</li>
-<li>[Aqua Guppy](https://play.google.com/store/apps/details?id=com.ssteam.aqua_guppy)</li>
-<li>[Blood Sugar Monitor](https://play.google.com/store/apps/details?id=com.ssteam.blood_sugar_monitor)</li>
-<li>[Bouncing Ball - Live Wallpaper](https://play.google.com/store/apps/details?id=com.ssteam.boucingball)</li>
-<li>[Bubble Level](https://play.google.com/store/apps/details?id=com.ssteam.bubble_level)</li>
-<li>[CV Builder](https://play.google.com/store/apps/details?id=com.ssteam.cv_builder)</li>
-<li>[Calculator Vault](https://play.google.com/store/apps/details?id=com.ssteam.hide_files_calculator)</li>
-<li>[Card Maker](https://play.google.com/store/apps/details?id=com.ssteam.pokemon_card_maker)</li>
-<li>[Chess Clock](https://play.google.com/store/apps/details?id=com.ssteam.chess_clock)</li>
-<li>[Compass](https://play.google.com/store/apps/details?id=com.ssteam.compass)</li>
-<li>[Country Flags](https://play.google.com/store/apps/details?id=com.ssteam.country_flags)</li>
-<li>[Cube Solver](https://play.google.com/store/apps/details?id=com.ssteam.cube_solver)</li>
-<li>[Công Cụ Tính Lãi Suất](https://play.google.com/store/apps/details?id=com.ssteam.interest_calculator)</li>
-<li>[D2 Tools](https://play.google.com/store/apps/details?id=com.ssteam.d2_tools)</li>
-<li>[Daily Chess](https://play.google.com/store/apps/details?id=com.ssteam.chess)</li>
-<li>[Device Info](https://play.google.com/store/apps/details?id=com.ssteam.device_info)</li>
-<li>[Diablo 2 Items](https://play.google.com/store/apps/details?id=com.ssteam.d2_items)</li>
-<li>[Diablo 2 Wiki](https://play.google.com/store/apps/details?id=com.ssteam.d2_wiki)</li>
-<li>[Game of Life](https://play.google.com/store/apps/details?id=com.ssteam.game_of_life)</li>
-<li>[Grid Tool](https://play.google.com/store/apps/details?id=com.ssteam.gridtool)</li>
-<li>[IQ Test](https://play.google.com/store/apps/details?id=com.ssteam.iq_test)</li>
-<li>[Jigsaw Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.jigsaw_puzzle)</li>
-<li>[LoL Wiki](https://play.google.com/store/apps/details?id=com.ssteam.lol_wiki)</li>
-<li>[Lol Build](https://play.google.com/store/apps/details?id=com.ssteam.lol_build)</li>
-<li>[Lịch Vạn Niên](https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar)</li>
-<li>[Maze Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.maze_puzzle)</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.animal_connect">Animal Connect</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.api_forge">Api Forge</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.apk_extractor">Apk Extractor</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.app_lock">App Lock</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.aqua_guppy">Aqua Guppy</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.blood_sugar_monitor">Blood Sugar Monitor</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.boucingball">Bouncing Ball - Live Wallpaper</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.bubble_level">Bubble Level</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.cv_builder">CV Builder</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.hide_files_calculator">Calculator Vault</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pokemon_card_maker">Card Maker</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.chess_clock">Chess Clock</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.compass">Compass</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.country_flags">Country Flags</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.cube_solver">Cube Solver</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.interest_calculator">Công Cụ Tính Lãi Suất</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.d2_tools">D2 Tools</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.chess">Daily Chess</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.device_info">Device Info</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.d2_items">Diablo 2 Items</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.d2_wiki">Diablo 2 Wiki</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.game_of_life">Game of Life</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.gridtool">Grid Tool</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.iq_test">IQ Test</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.jigsaw_puzzle">Jigsaw Puzzle</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.lol_wiki">LoL Wiki</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.lol_build">Lol Build</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar">Lịch Vạn Niên</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.maze_puzzle">Maze Puzzle</a></li>
 </ul>
 </td>
 <td valign="top" width="50%">
 <ul>
-<li>[Medicinal Herbs](https://play.google.com/store/apps/details?id=com.ssteam.medicinal_herbs)</li>
-<li>[Memory Test](https://play.google.com/store/apps/details?id=com.ssteam.memory_test)</li>
-<li>[Mewpedia – Cat Encyclopedia](https://play.google.com/store/apps/details?id=com.ssteam.mewpedia)</li>
-<li>[Minimal Clock](https://play.google.com/store/apps/details?id=com.ssteam.minimal_clock)</li>
-<li>[Money Manager](https://play.google.com/store/apps/details?id=com.ssteam.money_manager)</li>
-<li>[Pawpedia – Dog Encyclopedia](https://play.google.com/store/apps/details?id=com.ssteam.pawpedia)</li>
-<li>[Periodic Table](https://play.google.com/store/apps/details?id=com.ssteam.periodic_table)</li>
-<li>[Pixel Drawer](https://play.google.com/store/apps/details?id=com.ssteam.pixeldrawer)</li>
-<li>[Planet Explorer](https://play.google.com/store/apps/details?id=com.ssteam.planet_explorer)</li>
-<li>[PoE Currency](https://play.google.com/store/apps/details?id=com.ssteam.poecurrency)</li>
-<li>[Pregnancy Tracker](https://play.google.com/store/apps/details?id=com.ssteam.pregnancy_tracker)</li>
-<li>[Protractor](https://play.google.com/store/apps/details?id=com.ssteam.protractor)</li>
-<li>[QR Manager](https://play.google.com/store/apps/details?id=com.ssteam.qr_manager)</li>
-<li>[Rain Simulator](https://play.google.com/store/apps/details?id=com.ssteam.rainsimulator)</li>
-<li>[Random Generator](https://play.google.com/store/apps/details?id=com.ssteam.random_generator)</li>
-<li>[Reduce Image](https://play.google.com/store/apps/details?id=com.ssteam.reduce_image)</li>
-<li>[Reflex Game](https://play.google.com/store/apps/details?id=com.ssteam.reflex_game)</li>
-<li>[Sliding Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.sliding_puzzle)</li>
-<li>[Smart Light](https://play.google.com/store/apps/details?id=com.ssteam.smart_light)</li>
-<li>[Sound Level](https://play.google.com/store/apps/details?id=com.ssteam.sound_level)</li>
-<li>[Speed Test](https://play.google.com/store/apps/details?id=com.ssteam.speed_test)</li>
-<li>[Stock Simulator](https://play.google.com/store/apps/details?id=com.ssteam.stock_simulator)</li>
-<li>[Sudoku](https://play.google.com/store/apps/details?id=com.ssteam.sudoku)</li>
-<li>[Tic Tac Toe](https://play.google.com/store/apps/details?id=com.ssteam.tictactoe)</li>
-<li>[WiFi Analyzer](https://play.google.com/store/apps/details?id=com.ssteam.wifi_analyzer)</li>
-<li>[Yugioh Card Builder](https://play.google.com/store/apps/details?id=com.ssteam.yugioh_card_builder)</li>
-<li>[Yugioh Deck Builder](https://play.google.com/store/apps/details?id=com.ssteam.yugioh_deck_builder)</li>
-<li>[Ôn Thi GPLX](https://play.google.com/store/apps/details?id=com.ssteam.gplx)</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.medicinal_herbs">Medicinal Herbs</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.memory_test">Memory Test</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.mewpedia">Mewpedia – Cat Encyclopedia</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.minimal_clock">Minimal Clock</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.money_manager">Money Manager</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pawpedia">Pawpedia – Dog Encyclopedia</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.periodic_table">Periodic Table</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pixeldrawer">Pixel Drawer</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.planet_explorer">Planet Explorer</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.poecurrency">PoE Currency</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pregnancy_tracker">Pregnancy Tracker</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.protractor">Protractor</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.qr_manager">QR Manager</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.rainsimulator">Rain Simulator</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.random_generator">Random Generator</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.reduce_image">Reduce Image</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.reflex_game">Reflex Game</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.sliding_puzzle">Sliding Puzzle</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.smart_light">Smart Light</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.sound_level">Sound Level</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.speed_test">Speed Test</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.stock_simulator">Stock Simulator</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.sudoku">Sudoku</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.tictactoe">Tic Tac Toe</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.wifi_analyzer">WiFi Analyzer</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.yugioh_card_builder">Yugioh Card Builder</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.yugioh_deck_builder">Yugioh Deck Builder</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.gplx">Ôn Thi GPLX</a></li>
 </ul>
 </td>
 </tr>
