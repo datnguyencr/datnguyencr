@@ -22,63 +22,63 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <table>
 <tr>
 <td valign="top" width="50%">
-- [Animal Connect](https://play.google.com/store/apps/details?id=com.ssteam.animal_connect)
+- [Animal Connect](https://play.google.com/store/apps/details?id=com.ssteam.animal_connect) 
 
-- [Api Forge](https://play.google.com/store/apps/details?id=com.ssteam.api_forge)
+- [Api Forge](https://play.google.com/store/apps/details?id=com.ssteam.api_forge) 
 
-- [Apk Extractor](https://play.google.com/store/apps/details?id=com.ssteam.apk_extractor)
+- [Apk Extractor](https://play.google.com/store/apps/details?id=com.ssteam.apk_extractor) 
 
-- [App Lock](https://play.google.com/store/apps/details?id=com.ssteam.app_lock)
+- [App Lock](https://play.google.com/store/apps/details?id=com.ssteam.app_lock) 
 
-- [Aqua Guppy](https://play.google.com/store/apps/details?id=com.ssteam.aqua_guppy)
+- [Aqua Guppy](https://play.google.com/store/apps/details?id=com.ssteam.aqua_guppy) 
 
-- [Blood Sugar Monitor](https://play.google.com/store/apps/details?id=com.ssteam.blood_sugar_monitor)
+- [Blood Sugar Monitor](https://play.google.com/store/apps/details?id=com.ssteam.blood_sugar_monitor) 
 
-- [Bouncing Ball - Live Wallpaper](https://play.google.com/store/apps/details?id=com.ssteam.boucingball)
+- [Bouncing Ball - Live Wallpaper](https://play.google.com/store/apps/details?id=com.ssteam.boucingball) 
 
-- [Bubble Level](https://play.google.com/store/apps/details?id=com.ssteam.bubble_level)
+- [Bubble Level](https://play.google.com/store/apps/details?id=com.ssteam.bubble_level) 
 
-- [CV Builder](https://play.google.com/store/apps/details?id=com.ssteam.cv_builder)
+- [CV Builder](https://play.google.com/store/apps/details?id=com.ssteam.cv_builder) 
 
-- [Calculator Vault](https://play.google.com/store/apps/details?id=com.ssteam.hide_files_calculator)
+- [Calculator Vault](https://play.google.com/store/apps/details?id=com.ssteam.hide_files_calculator) 
 
-- [Card Maker](https://play.google.com/store/apps/details?id=com.ssteam.pokemon_card_maker)
+- [Card Maker](https://play.google.com/store/apps/details?id=com.ssteam.pokemon_card_maker) 
 
-- [Chess Clock](https://play.google.com/store/apps/details?id=com.ssteam.chess_clock)
+- [Chess Clock](https://play.google.com/store/apps/details?id=com.ssteam.chess_clock) 
 
-- [Compass](https://play.google.com/store/apps/details?id=com.ssteam.compass)
+- [Compass](https://play.google.com/store/apps/details?id=com.ssteam.compass) 
 
-- [Country Flags](https://play.google.com/store/apps/details?id=com.ssteam.country_flags)
+- [Country Flags](https://play.google.com/store/apps/details?id=com.ssteam.country_flags) 
 
-- [Cube Solver](https://play.google.com/store/apps/details?id=com.ssteam.cube_solver)
+- [Cube Solver](https://play.google.com/store/apps/details?id=com.ssteam.cube_solver) 
 
-- [Công Cụ Tính Lãi Suất](https://play.google.com/store/apps/details?id=com.ssteam.interest_calculator)
+- [Công Cụ Tính Lãi Suất](https://play.google.com/store/apps/details?id=com.ssteam.interest_calculator) 
 
-- [D2 Tools](https://play.google.com/store/apps/details?id=com.ssteam.d2_tools)
+- [D2 Tools](https://play.google.com/store/apps/details?id=com.ssteam.d2_tools) 
 
-- [Daily Chess](https://play.google.com/store/apps/details?id=com.ssteam.chess)
+- [Daily Chess](https://play.google.com/store/apps/details?id=com.ssteam.chess) 
 
-- [Device Info](https://play.google.com/store/apps/details?id=com.ssteam.device_info)
+- [Device Info](https://play.google.com/store/apps/details?id=com.ssteam.device_info) 
 
-- [Diablo 2 Items](https://play.google.com/store/apps/details?id=com.ssteam.d2_items)
+- [Diablo 2 Items](https://play.google.com/store/apps/details?id=com.ssteam.d2_items) 
 
-- [Diablo 2 Wiki](https://play.google.com/store/apps/details?id=com.ssteam.d2_wiki)
+- [Diablo 2 Wiki](https://play.google.com/store/apps/details?id=com.ssteam.d2_wiki) 
 
-- [Game of Life](https://play.google.com/store/apps/details?id=com.ssteam.game_of_life)
+- [Game of Life](https://play.google.com/store/apps/details?id=com.ssteam.game_of_life) 
 
-- [Grid Tool](https://play.google.com/store/apps/details?id=com.ssteam.gridtool)
+- [Grid Tool](https://play.google.com/store/apps/details?id=com.ssteam.gridtool) 
 
-- [IQ Test](https://play.google.com/store/apps/details?id=com.ssteam.iq_test)
+- [IQ Test](https://play.google.com/store/apps/details?id=com.ssteam.iq_test) 
 
-- [Jigsaw Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.jigsaw_puzzle)
+- [Jigsaw Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.jigsaw_puzzle) 
 
-- [LoL Wiki](https://play.google.com/store/apps/details?id=com.ssteam.lol_wiki)
+- [LoL Wiki](https://play.google.com/store/apps/details?id=com.ssteam.lol_wiki) 
 
-- [Lol Build](https://play.google.com/store/apps/details?id=com.ssteam.lol_build)
+- [Lol Build](https://play.google.com/store/apps/details?id=com.ssteam.lol_build) 
 
-- [Lịch Vạn Niên](https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar)
+- [Lịch Vạn Niên](https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar) 
 
-- [Maze Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.maze_puzzle)
+- [Maze Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.maze_puzzle) 
 
 </td>
 <td valign="top" width="50%">
@@ -147,11 +147,11 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <table>
 <tr>
 <td valign="top" width="50%">
-- [Rain Simulator](https://datnguyencr.github.io/rain-simulator-web/)
+- [Rain Simulator](https://datnguyencr.github.io/rain-simulator-web/) 
 
-- [CV Builder](https://datnguyencr.github.io/cv-builder-web/)
+- [CV Builder](https://datnguyencr.github.io/cv-builder-web/) 
 
-- [Planet Explorer](https://datnguyencr.github.io/planet-explorer-web/)
+- [Planet Explorer](https://datnguyencr.github.io/planet-explorer-web/) 
 
 </td>
 <td valign="top" width="50%">
@@ -168,9 +168,9 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <table>
 <tr>
 <td valign="top" width="50%">
-- [File Downloader](https://chromewebstore.google.com/detail/file-downloader/hahkepphjffjcghlgfbeedkpmcncllag)
+- [File Downloader](https://chromewebstore.google.com/detail/file-downloader/hahkepphjffjcghlgfbeedkpmcncllag) 
 
-- [Color Picker Cursor](https://chromewebstore.google.com/detail/color-picker-cursor/eacccbllbdkdhieahoijpbnkkdnhllnl)
+- [Color Picker Cursor](https://chromewebstore.google.com/detail/color-picker-cursor/eacccbllbdkdhieahoijpbnkkdnhllnl) 
 
 </td>
 <td valign="top" width="50%">
