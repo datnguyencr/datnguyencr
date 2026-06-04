@@ -11,49 +11,92 @@ void main() {
   buffer.writeln(_header());
   buffer.writeln(_skills());
 
-  buffer.writeln('## 📂 Featured Projects\n');
+buffer.writeln('## 📂 Featured Projects\n');
 
-  buffer.writeln('### Mobile Apps [${apps.length}]\n');
-  for (final app in apps) {
-    final id = app['id'];
-    final name = app['name'];
-    buffer.writeln(
-        '- [$name](https://play.google.com/store/apps/details?id=$id)');
-  }
+_writeTwoColumnSection(
+  buffer: buffer,
+  title: '📱 Mobile Apps (${apps.length})',
+  items: apps
+      .map(
+        (app) =>
+            '[${app['name']}](https://play.google.com/store/apps/details?id=${app['id']})',
+      )
+      .toList(),
+);
 
-  buffer.writeln('\n### Web Apps [${webs.length}]\n');
-  for (final web in webs) {
-    buffer.writeln('- [${web['name']}](${web['url']})');
-  }
+_writeTwoColumnSection(
+  buffer: buffer,
+  title: '🌐 Web Apps (${webs.length})',
+  items: webs
+      .map((web) => '[${web['name']}](${web['url']})')
+      .toList(),
+);
 
-  buffer.writeln('\n### Chrome Extensions[${chrome.length}]\n');
-  for (final ext in chrome) {
-    buffer.writeln('- [${ext['name']}](${ext['url']})');
-  }
+_writeTwoColumnSection(
+  buffer: buffer,
+  title: '🧩 Chrome Extensions (${chrome.length})',
+  items: chrome
+      .map((ext) => '[${ext['name']}](${ext['url']})')
+      .toList(),
+);
 
   buffer.writeln(_tools());
   buffer.writeln(_contact());
   buffer.writeln(_quote());
 
   File('README.md').writeAsStringSync(buffer.toString());
+
   print('README.md generated successfully');
 }
+void _writeTwoColumnSection({
+  required StringBuffer buffer,
+  required String title,
+  required List<String> items,
+}) {
+  final mid = (items.length / 2).ceil();
 
+  final left = items.take(mid).toList();
+  final right = items.skip(mid).toList();
+
+  buffer.writeln('### $title\n');
+  buffer.writeln('<table>');
+  buffer.writeln('<tr>');
+  buffer.writeln('<td valign="top" width="50%">');
+
+  for (final item in left) {
+    buffer.writeln('- $item');
+  }
+
+  buffer.writeln('</td>');
+  buffer.writeln('<td valign="top" width="50%">');
+
+  for (final item in right) {
+    buffer.writeln('- $item');
+  }
+
+  buffer.writeln('</td>');
+  buffer.writeln('</tr>');
+  buffer.writeln('</table>\n');
+}
 List<Map<String, dynamic>> _readJsonList(String path) {
   final file = File(path);
+
   if (!file.existsSync()) {
     stderr.writeln('Missing file: $path');
     exit(1);
   }
+
   final data = jsonDecode(file.readAsStringSync());
+
   return List<Map<String, dynamic>>.from(data);
 }
 
 String _header() => '''
 # 👋 Hi, I'm datnguyencr
 
-I am a Mobile Software Developer with a strong background as a full-stack developer.  
-I adapt quickly to new technologies, write clean, reusable components and libraries, and excel at delivering efficient, scalable solutions.
+I am a Mobile Software Developer with a strong background as a full-stack developer.
+
+I adapt quickly to new technologies, write clean, reusable components and libraries, and enjoy building practical products across mobile, web, desktop, and automation.
 
 ---
 ''';
@@ -62,14 +105,15 @@ String _skills() => '''
 ## 🛠️ Skills
 
 - **Languages:** Kotlin, Java, Dart, Flutter, C#, Python, JavaScript
-- **Technologies & Practices:** REST APIs, Firebase, Play Store Management, OOP, Design Patterns
-- **Other Areas:** Version Control (Git), CI/CD with Fastlane
+- **Technologies:** REST APIs, Firebase, SQLite, Play Store Management
+- **Architecture:** OOP, Design Patterns, Clean Architecture
+- **DevOps:** Git, Fastlane, CI/CD
 
 ---
 ''';
 
 String _tools() => '''
-### Tools and Libs
+## 🔧 Tools & Libraries
 
 - [Placeholder](https://datnguyencr.github.io/placeholder/)
 - [ASCII Art](https://datnguyencr.github.io/ascii_art/)
@@ -81,15 +125,15 @@ String _tools() => '''
 ''';
 
 String _contact() => '''
-## 📫 Contact Me
+## 📫 Contact
 
-- Linkedin: [dat-nguyen-3aa7bb117](https://www.linkedin.com/in/dat-nguyen-3aa7bb117/)
+- LinkedIn: [dat-nguyen-3aa7bb117](https://www.linkedin.com/in/dat-nguyen-3aa7bb117/)
 - Email: datnguyen.cr@gmail.com
-- portfolio: [portfolio](https://datnguyencr.github.io/portfolio/)
+- Portfolio: [datnguyencr.github.io/portfolio](https://datnguyencr.github.io/portfolio/)
 
 ---
 ''';
 
 String _quote() => '''
-> “I build projects that are practical, maintainable, and fun — across mobile, desktop, and real-life experiments.”
+> I build practical software with a focus on simplicity, maintainability, and long-term value.
 ''';

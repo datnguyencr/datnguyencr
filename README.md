@@ -1,22 +1,27 @@
 # 👋 Hi, I'm datnguyencr
 
-I am a Mobile Software Developer with a strong background as a full-stack developer.  
-I adapt quickly to new technologies, write clean, reusable components and libraries, and excel at delivering efficient, scalable solutions.
+I am a Mobile Software Developer with a strong background as a full-stack developer.
+
+I adapt quickly to new technologies, write clean, reusable components and libraries, and enjoy building practical products across mobile, web, desktop, and automation.
 
 ---
 
 ## 🛠️ Skills
 
 - **Languages:** Kotlin, Java, Dart, Flutter, C#, Python, JavaScript
-- **Technologies & Practices:** REST APIs, Firebase, Play Store Management, OOP, Design Patterns
-- **Other Areas:** Version Control (Git), CI/CD with Fastlane
+- **Technologies:** REST APIs, Firebase, SQLite, Play Store Management
+- **Architecture:** OOP, Design Patterns, Clean Architecture
+- **DevOps:** Git, Fastlane, CI/CD
 
 ---
 
 ## 📂 Featured Projects
 
-### Mobile Apps [57]
+### 📱 Mobile Apps (57)
 
+<table>
+<tr>
+<td valign="top" width="50%">
 - [Animal Connect](https://play.google.com/store/apps/details?id=com.ssteam.animal_connect)
 - [Api Forge](https://play.google.com/store/apps/details?id=com.ssteam.api_forge)
 - [Apk Extractor](https://play.google.com/store/apps/details?id=com.ssteam.apk_extractor)
@@ -46,6 +51,8 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Lol Build](https://play.google.com/store/apps/details?id=com.ssteam.lol_build)
 - [Lịch Vạn Niên](https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar)
 - [Maze Puzzle](https://play.google.com/store/apps/details?id=com.ssteam.maze_puzzle)
+</td>
+<td valign="top" width="50%">
 - [Medicinal Herbs](https://play.google.com/store/apps/details?id=com.ssteam.medicinal_herbs)
 - [Memory Test](https://play.google.com/store/apps/details?id=com.ssteam.memory_test)
 - [Mewpedia – Cat Encyclopedia](https://play.google.com/store/apps/details?id=com.ssteam.mewpedia)
@@ -74,21 +81,41 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 - [Yugioh Card Builder](https://play.google.com/store/apps/details?id=com.ssteam.yugioh_card_builder)
 - [Yugioh Deck Builder](https://play.google.com/store/apps/details?id=com.ssteam.yugioh_deck_builder)
 - [Ôn Thi GPLX](https://play.google.com/store/apps/details?id=com.ssteam.gplx)
+</td>
+</tr>
+</table>
 
-### Web Apps [5]
+### 🌐 Web Apps (5)
 
+<table>
+<tr>
+<td valign="top" width="50%">
 - [Rain Simulator](https://datnguyencr.github.io/rain-simulator-web/)
 - [CV Builder](https://datnguyencr.github.io/cv-builder-web/)
 - [Planet Explorer](https://datnguyencr.github.io/planet-explorer-web/)
+</td>
+<td valign="top" width="50%">
 - [Sudoku](https://datnguyencr.github.io/sudoku-web/)
 - [Sliding Puzzle](https://datnguyencr.github.io/sliding-puzzle-web/)
+</td>
+</tr>
+</table>
 
-### Chrome Extensions[3]
+### 🧩 Chrome Extensions (3)
 
+<table>
+<tr>
+<td valign="top" width="50%">
 - [File Downloader](https://chromewebstore.google.com/detail/file-downloader/hahkepphjffjcghlgfbeedkpmcncllag)
 - [Color Picker Cursor](https://chromewebstore.google.com/detail/color-picker-cursor/eacccbllbdkdhieahoijpbnkkdnhllnl)
+</td>
+<td valign="top" width="50%">
 - [Web Font Override](https://chromewebstore.google.com/detail/web-font-override/bfklnnbknkgcalgnejncmfkkfohgadhj)
-### Tools and Libs
+</td>
+</tr>
+</table>
+
+## 🔧 Tools & Libraries
 
 - [Placeholder](https://datnguyencr.github.io/placeholder/)
 - [ASCII Art](https://datnguyencr.github.io/ascii_art/)
@@ -98,13 +125,13 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- Linkedin: [dat-nguyen-3aa7bb117](https://www.linkedin.com/in/dat-nguyen-3aa7bb117/)
+- LinkedIn: [dat-nguyen-3aa7bb117](https://www.linkedin.com/in/dat-nguyen-3aa7bb117/)
 - Email: datnguyen.cr@gmail.com
-- portfolio: [portfolio](https://datnguyencr.github.io/portfolio/)
+- Portfolio: [datnguyencr.github.io/portfolio](https://datnguyencr.github.io/portfolio/)
 
 ---
 
-> “I build projects that are practical, maintainable, and fun — across mobile, desktop, and real-life experiments.”
+> I build practical software with a focus on simplicity, maintainability, and long-term value.
 
