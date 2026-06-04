@@ -37,7 +37,7 @@
     {
         "id": "com.ssteam.bubble_level",
         "name": "Bubble Level",
-        "icon": "https://play-lh.googleusercontent.com/YE3sVjdSGW_OP2dIecHSrJlsZvK9y5-4ZzhVQBRI26i7T3FYZ_g83uYi5x1S8hpBXg"
+        "icon": "https://play-lh.googleusercontent.com/cqxmb-qMBagT0zF4mFTpfp-oXgwFKmky9-9HrEHsF6ZJp2Dq1DD77GYziLl8kCepjaUCxZ53lVy0E69dNZB-"
     },
     {
         "id": "com.ssteam.cv_builder",
@@ -80,11 +80,6 @@
         "icon": "https://play-lh.googleusercontent.com/KJCdkcPDgB4dircTO6a2hjwSLOX08V-ES3bGiTXYhPfeLAhO_-kXsufc3Eifw2Z5bOjnvwgLLIWiKINujto1eA"
     },
     {
-        "id": "com.ssteam.d2_tools",
-        "name": "D2 Tools",
-        "icon": "https://play-lh.googleusercontent.com/59JqgAHnuc_Q-S7vIVRYTftzbIwvtyj12i28Phprwn87tUFA-27Q5dharoX4AP4wrId-0AZuReSubJV2mtq3"
-    },
-    {
         "id": "com.ssteam.chess",
         "name": "Daily Chess",
         "icon": "https://play-lh.googleusercontent.com/P1c0VOKecGpAccrfoU30dnYNArTVeClhmLRfJpOQBeP51spir3dY4y8Sfhl6GzDqUSmSWefA73Humq4KUVAqQg"
@@ -98,6 +93,11 @@
         "id": "com.ssteam.d2_items",
         "name": "Diablo 2 Items",
         "icon": "https://play-lh.googleusercontent.com/wdAPItdrqerqTevX7y5O35D4cxz_g4ohEGJj9nohjtEXgr3x51KbhzSblj2wLHAnFeJM39qJSIuRAvXvN0lJ_g"
+    },
+    {
+        "id": "com.ssteam.d2_tools",
+        "name": "Diablo 2 Tools",
+        "icon": "https://play-lh.googleusercontent.com/59JqgAHnuc_Q-S7vIVRYTftzbIwvtyj12i28Phprwn87tUFA-27Q5dharoX4AP4wrId-0AZuReSubJV2mtq3"
     },
     {
         "id": "com.ssteam.d2_wiki",
@@ -242,7 +242,7 @@
     {
         "id": "com.ssteam.sound_level",
         "name": "Sound Level",
-        "icon": "https://play-lh.googleusercontent.com/fZ41qmJ7_-isEaaLmRSGDGj93c6WZ5Ae0-gZN7OLO7-sDHwXe4XrRtulu7Bp7BKQeg"
+        "icon": "https://play-lh.googleusercontent.com/rB2AW6rqc6VbU5ivazncxneLzo5Cthj_qR70yg9eRh5LJa_pchqWj6i0Tbxar2WEGC7HFFaqiNoSSvVZeToBbmo"
     },
     {
         "id": "com.ssteam.speed_test",
@@ -262,7 +262,7 @@
     {
         "id": "com.ssteam.tictactoe",
         "name": "Tic Tac Toe",
-        "icon": "https://play-lh.googleusercontent.com/VytvUtVvguLZ1tPzDqYh3xmsc2sZfZYTVaTiSMB_3rL1MvcSrZb1vw7u-ur39n_dU2k"
+        "icon": "https://play-lh.googleusercontent.com/JUFVNIUu2Lh-kmmRURTyn0TisJOkwqYIXIdlP7EFldZn2f8c2B9JLHK1aGLOG0XJT-n9PMlxgylvJSK_aIzD5w"
     },
     {
         "id": "com.ssteam.wifi_analyzer",

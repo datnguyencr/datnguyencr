@@ -39,10 +39,10 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.country_flags">Country Flags</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.cube_solver">Cube Solver</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.interest_calculator">Công Cụ Tính Lãi Suất</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.d2_tools">D2 Tools</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.chess">Daily Chess</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.device_info">Device Info</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.d2_items">Diablo 2 Items</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.d2_tools">Diablo 2 Tools</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.d2_wiki">Diablo 2 Wiki</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.game_of_life">Game of Life</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.gridtool">Grid Tool</a></li>
