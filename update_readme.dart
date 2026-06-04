@@ -64,14 +64,14 @@ void _writeTwoColumnSection({
   buffer.writeln('<td valign="top" width="50%">');
 
   for (final item in left) {
-    buffer.writeln('- $item');
+    buffer.writeln('- $item\n');
   }
 
   buffer.writeln('</td>');
   buffer.writeln('<td valign="top" width="50%">');
 
   for (final item in right) {
-    buffer.writeln('- $item');
+    buffer.writeln('- $item\n');
   }
 
   buffer.writeln('</td>');
