@@ -9,8 +9,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 ## 🛠️ Skills
 
 - **Languages:** Kotlin, Java, Dart, Flutter, C#, Python, JavaScript
-- **Technologies:** REST APIs, Firebase, SQLite, Play Store Management
-- **Architecture:** OOP, Design Patterns, Clean Architecture
+- **Skills:** REST APIs, Firebase, Play Store Management, OOP, Design Patterns, Clean Architecture
 - **DevOps:** Git, Fastlane, CI/CD
 
 ---
