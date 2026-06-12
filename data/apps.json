@@ -12,7 +12,7 @@
     {
         "id": "com.ssteam.apk_extractor",
         "name": "Apk Extractor",
-        "icon": "https://play-lh.googleusercontent.com/4Fg-3LUnj_Ae0R9wNwdQRPxB1xqSELDgsc9hvBK7O4hd8ppk9mXZxWXbYWXe04XDxw"
+        "icon": "https://play-lh.googleusercontent.com/lgAlZibqg6ZajliSadeiKEK3J_uJ5Y2Go4ADv1ixKUERkmG_dz1aXWRvA-gsfH5wnDfm6rLo6ZHIO0IFoS-QwQ"
     },
     {
         "id": "com.ssteam.app_lock",
@@ -62,12 +62,17 @@
     {
         "id": "com.ssteam.compass",
         "name": "Compass",
-        "icon": "https://play-lh.googleusercontent.com/OKTSmXDq9qJ9xXrXuiQtvqAYd9acsLyGUMzRWByrXgEWC4-Ja0LiJOC4pE0D-GPkTys"
+        "icon": "https://play-lh.googleusercontent.com/Z5xji5g2RyytPeIm5WmZmq-tlf1H8t9ZBKwEFFYpD8_kPkB_oUVx9j5h04n_071x5PtlXkdvfHoGxakGHFdC"
     },
     {
         "id": "com.ssteam.country_flags",
         "name": "Country Flags",
         "icon": "https://play-lh.googleusercontent.com/sZGfqPTgNnZ2jrIklDIlsL3hyr_PR9dRP90YHaKi6EhSlflSTRcMGcMaYJCF8O0neS0"
+    },
+    {
+        "id": "com.ssteam.crochet_pattern_maker",
+        "name": "Crochet Pattern Maker",
+        "icon": "https://play-lh.googleusercontent.com/RdbrxGrbgI8u9QqEYd8XUmxEDfmZOrne7X2MvH_Y6GvLohZidpGOlMwHhFisa69YmTpso9uGoC8PM_wycccqGQ"
     },
     {
         "id": "com.ssteam.cube_solver",
@@ -112,7 +117,7 @@
     {
         "id": "com.ssteam.gridtool",
         "name": "Grid Tool",
-        "icon": "https://play-lh.googleusercontent.com/HLM7oCmjRQb78Zp8ZzusmytH8JKCOzaYJoeDN4D10gFzW_5j631aIiFzBCeu6IwNAA"
+        "icon": "https://play-lh.googleusercontent.com/wISGJi-Ih_zBHiAHH7gFTU51rl401hdT4Trrbjc6q6aPcwRB7rW-UwtUjF8ItyvVlKzd-oUb0qMZtS318YANwA"
     },
     {
         "id": "com.ssteam.iq_test",
@@ -123,6 +128,11 @@
         "id": "com.ssteam.jigsaw_puzzle",
         "name": "Jigsaw Puzzle",
         "icon": "https://play-lh.googleusercontent.com/KQSirwAXQi0omutmXoPDxqM1u-CWWSPXJgTcSbb3VjCGJOl2ZzFvg2f6hIq5hRRh3Cs0OXCG_WLYgV9fx_oAzw"
+    },
+    {
+        "id": "com.ssteam.led_pixel_display",
+        "name": "LED Pixel Display",
+        "icon": "https://play-lh.googleusercontent.com/9KalOxUM2FiEPy7lrWD0F-Sb7PhwBmifnDKUT8Yo2lhHnG9joxR6WEnT2Cmq0JB_Rt1cGXWWDtxvKCzKKD0KLuc"
     },
     {
         "id": "com.ssteam.lol_wiki",
@@ -237,7 +247,7 @@
     {
         "id": "com.ssteam.smart_light",
         "name": "Smart Light",
-        "icon": "https://play-lh.googleusercontent.com/-XXCtL2qdFVMEpkuqh3UDirfA69-KkuXb_Z6rgFLHNRNbIEy63FYsleXHJcrEvACCoc4"
+        "icon": "https://play-lh.googleusercontent.com/tc2kcTZA1faLanjkRirfPY65z4OkpmlaxMDMYuGwti7OPUnXUo6qTSWbtxAimJ4AB4x4tqC8cMV__ZMmpF9XvA"
     },
     {
         "id": "com.ssteam.sound_level",
@@ -257,7 +267,7 @@
     {
         "id": "com.ssteam.sudoku",
         "name": "Sudoku",
-        "icon": "https://play-lh.googleusercontent.com/du7PxHCXKkqCg-IFqxbkQeK3t6JgZwDSTo_nQQX4oXY2-7yBixCvDy4dBa__wh64JA"
+        "icon": "https://play-lh.googleusercontent.com/MshK2_TMAnoU8geHpaMj2aYko8enYW_0vdcITyosWzT9-hv5502I7KuOQhlBnCpGwLwKmfzzKWF8nJiHrhaI"
     },
     {
         "id": "com.ssteam.tictactoe",
@@ -282,6 +292,6 @@
     {
         "id": "com.ssteam.gplx",
         "name": "Ôn Thi GPLX",
-        "icon": "https://play-lh.googleusercontent.com/oFEcBNMa4XvJhj8R-Ekwqq6JmVWO3645KnxSfzUPh15BV6JvQOdohfrXOPlCefR0fV5aEHGgmxqbfMZknNL2Ag"
+        "icon": "https://play-lh.googleusercontent.com/0q2xX2qWpBsFr9S_c3k6yrnthOaEtoep1yC-4Kiy9AJgSlUQoyysBzYtPZtRcnLV9FficVV-IY9VXhVkzbtn9w4"
     }
 ]

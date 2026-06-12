@@ -16,7 +16,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 ## 📂 Featured Projects
 
-### 📱 Mobile Apps (57)
+### 📱 Mobile Apps (59)
 
 <table>
 <tr>
@@ -36,6 +36,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.chess_clock">Chess Clock</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.compass">Compass</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.country_flags">Country Flags</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.crochet_pattern_maker">Crochet Pattern Maker</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.cube_solver">Cube Solver</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.interest_calculator">Công Cụ Tính Lãi Suất</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.chess">Daily Chess</a></li>
@@ -47,14 +48,15 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.gridtool">Grid Tool</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.iq_test">IQ Test</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.jigsaw_puzzle">Jigsaw Puzzle</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.led_pixel_display">LED Pixel Display</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.lol_wiki">LoL Wiki</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.lol_build">Lol Build</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar">Lịch Vạn Niên</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.maze_puzzle">Maze Puzzle</a></li>
 </ul>
 </td>
 <td valign="top" width="50%">
 <ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.maze_puzzle">Maze Puzzle</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.medicinal_herbs">Medicinal Herbs</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.memory_test">Memory Test</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.mewpedia">Mewpedia – Cat Encyclopedia</a></li>
