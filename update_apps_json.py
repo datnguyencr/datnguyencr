@@ -28,10 +28,31 @@ def scrape_app_ids():
             if 'appId' in app:
                 app_ids.add(app['appId'])
     except Exception as e:
-        print(f"Error fetching apps: {e}")
+        print(f"Error fetching apps via search: {e}")
+
+    print("Fetching using raw HTML scraping...")
+    urls = [DEV_URL, SEARCH_URL]
+    for url in urls:
+        print(f"Fetching: {url}")
+        try:
+            response = requests.get(url)
+            # Find standard links
+            matches = re.findall(r'details\?id=([a-zA-Z0-9._]+)', response.text)
+            for m in matches:
+                app_ids.add(m)
+            
+            # Find com.ssteam.* package names anywhere in the source (e.g. in script tags)
+            ssteam_matches = re.findall(r'(com\.ssteam\.[a-zA-Z0-9._]+)', response.text)
+            for m in ssteam_matches:
+                app_ids.add(m)
+        except Exception as e:
+            print(f"Error scraping {url}: {e}")
+            
+    # Filter out potential false positives
+    valid_ids = {aid for aid in app_ids if len(aid.split('.')) >= 2 and len(aid) < 100}
     
-    print(f"Found {len(app_ids)} unique potential app IDs.")
-    return sorted(list(app_ids))
+    print(f"Found {len(valid_ids)} unique potential app IDs.")
+    return sorted(list(valid_ids))
 
 def update_apps_json(app_ids):
     if not os.path.exists(APPS_JSON_PATH):
