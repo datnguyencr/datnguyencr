@@ -15,29 +15,20 @@ except ImportError:
 
 DEV_URL = "https://play.google.com/store/apps/dev?id=8108163760101121306"
 SEARCH_URL = "https://play.google.com/store/search?q=pub:ssteam&c=apps"
-APPS_JSON_PATH = os.path.join("data", "apps.json")
+APPS_JSON_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "apps.json")
 
 def scrape_app_ids():
     app_ids = set()
     
-    for url in [DEV_URL, SEARCH_URL]:
-        print(f"Fetching: {url}")
-        try:
-            response = requests.get(url)
-            if response.status_code != 200:
-                print(f"Failed to fetch {url}: {response.status_code}")
-                continue
-
-            soup = BeautifulSoup(response.text, 'html.parser')
-            
-            # Find all links that look like app details
-            for a in soup.find_all('a', href=True):
-                href = a['href']
-                match = re.search(r'details\?id=([a-zA-Z0-9._]+)', href)
-                if match:
-                    app_ids.add(match.group(1))
-        except Exception as e:
-            print(f"Error fetching {url}: {e}")
+    print("Fetching using google_play_scraper search...")
+    try:
+        from google_play_scraper import search
+        results = search("pub:ssteam")
+        for app in results:
+            if 'appId' in app:
+                app_ids.add(app['appId'])
+    except Exception as e:
+        print(f"Error fetching apps: {e}")
     
     print(f"Found {len(app_ids)} unique potential app IDs.")
     return sorted(list(app_ids))
