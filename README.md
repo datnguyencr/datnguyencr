@@ -16,7 +16,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 ## 📂 Featured Projects
 
-### 📱 Mobile Apps (59)
+### 📱 Mobile Apps (60)
 
 <table>
 <tr>
@@ -67,6 +67,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pixeldrawer">Pixel Drawer</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.planet_explorer">Planet Explorer</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.poecurrency">PoE Currency</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.poe_divination_card">PoE Div Card</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pregnancy_tracker">Pregnancy Tracker</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.protractor">Protractor</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.qr_manager">QR Manager</a></li>
