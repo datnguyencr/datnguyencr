@@ -16,12 +16,13 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 ## 📂 Featured Projects
 
-### 📱 Mobile Apps (60)
+### 📱 Mobile Apps (62)
 
 <table>
 <tr>
 <td valign="top" width="50%">
 <ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.algorithm_visualization">Algorithm Visualization</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.animal_connect">Animal Connect</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.api_forge">Api Forge</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.apk_extractor">Apk Extractor</a></li>
@@ -30,7 +31,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.blood_sugar_monitor">Blood Sugar Monitor</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.boucingball">Bouncing Ball - Live Wallpaper</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.bubble_level">Bubble Level</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.cv_builder">CV Builder</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.hide_files_calculator">Calculator Vault</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pokemon_card_maker">Card Maker</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.chess_clock">Chess Clock</a></li>
@@ -38,6 +38,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.country_flags">Country Flags</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.crochet_pattern_maker">Crochet Pattern Maker</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.cube_solver">Cube Solver</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.cv_builder">CV Builder</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.interest_calculator">Công Cụ Tính Lãi Suất</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.chess">Daily Chess</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.device_info">Device Info</a></li>
@@ -45,17 +46,18 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.d2_tools">Diablo 2 Tools</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.d2_wiki">Diablo 2 Wiki</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.game_of_life">Game of Life</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.gif_wallpaper">GIF Wallpaper</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.gridtool">Grid Tool</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.iq_test">IQ Test</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.jigsaw_puzzle">Jigsaw Puzzle</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.led_pixel_display">LED Pixel Display</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.lol_wiki">LoL Wiki</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.lol_build">Lol Build</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar">Lịch Vạn Niên</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.lol_wiki">LoL Wiki</a></li>
 </ul>
 </td>
 <td valign="top" width="50%">
 <ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar">Lịch Vạn Niên</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.maze_puzzle">Maze Puzzle</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.medicinal_herbs">Medicinal Herbs</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.memory_test">Memory Test</a></li>

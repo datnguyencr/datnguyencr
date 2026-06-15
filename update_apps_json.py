@@ -1,60 +1,80 @@
 import json
 import os
 import re
+import sys
 import requests
-from bs4 import BeautifulSoup
 
-# Dependencies: pip install requests beautifulsoup4 google-play-scraper
-
+# Dependencies check
 try:
     from google_play_scraper import app as get_app_details
+    from google_play_scraper import search
 except ImportError:
-    print("google-play-scraper not found. Installing...")
-    os.system("pip install google-play-scraper")
+    print("Required packages not found. Installing...")
+    os.system(f"{sys.executable} -m pip install google-play-scraper requests")
     from google_play_scraper import app as get_app_details
+    from google_play_scraper import search
 
-DEV_URL = "https://play.google.com/store/apps/dev?id=8108163760101121306"
+DEV_ID = "8108163760101121306"
+DEV_URL = f"https://play.google.com/store/apps/dev?id={DEV_ID}"
 SEARCH_URL = "https://play.google.com/store/search?q=pub:ssteam&c=apps"
 APPS_JSON_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "apps.json")
+
+def extract_package_names(html_content):
+    """
+    Finds all valid Android package names matching com.ssteam.
+    Uses precise boundary matching to catch IDs embedded inside JSON blobs.
+    """
+    pattern = r'\bcom\.ssteam\.[a-zA-Z0-9_]+(?:\.[a-zA-Z0-9_]+)*\b'
+    matches = re.findall(pattern, html_content)
+    link_matches = re.findall(r'details\?id=([a-zA-Z0-9._]+)', html_content)
+    return set(matches + link_matches)
 
 def scrape_app_ids():
     app_ids = set()
     
+    # 1. Clean & Safe Search query using google-play-scraper
     print("Fetching using google_play_scraper search...")
     try:
-        from google_play_scraper import search
+        # Search for the exact developer filter phrase
         results = search("pub:ssteam")
-        for app in results:
-            if 'appId' in app:
-                app_ids.add(app['appId'])
+        if isinstance(results, list):
+            for app in results:
+                if app and isinstance(app, dict) and 'appId' in app:
+                    app_ids.add(app['appId'])
     except Exception as e:
-        print(f"Error fetching apps via search: {e}")
+        print(f"  - Search query warning: {e}")
 
-    print("Fetching using raw HTML scraping...")
-    urls = [DEV_URL, SEARCH_URL]
-    for url in urls:
-        print(f"Fetching: {url}")
+    # 2. Deep Script Parsing from the Raw HTML (Dev page & Search page)
+    print("Fetching using Deep HTML & script block parsing...")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept-Language": "en-US,en;q=0.9"
+    }
+    
+    for url in [DEV_URL, SEARCH_URL]:
         try:
-            response = requests.get(url)
-            # Find standard links
-            matches = re.findall(r'details\?id=([a-zA-Z0-9._]+)', response.text)
-            for m in matches:
-                app_ids.add(m)
-            
-            # Find com.ssteam.* package names anywhere in the source (e.g. in script tags)
-            ssteam_matches = re.findall(r'(com\.ssteam\.[a-zA-Z0-9._]+)', response.text)
-            for m in ssteam_matches:
-                app_ids.add(m)
+            response = requests.get(url, headers=headers, timeout=15)
+            if response.status_code == 200:
+                found_packages = extract_package_names(response.text)
+                app_ids.update(found_packages)
         except Exception as e:
-            print(f"Error scraping {url}: {e}")
+            print(f"  - Error pulling HTML from {url}: {e}")
             
-    # Filter out potential false positives
-    valid_ids = {aid for aid in app_ids if len(aid.split('.')) >= 2 and len(aid) < 100}
+    # Filter list: Ensure they look like real package formats and belong to ssteam
+    valid_ids = {
+        aid for aid in app_ids 
+        if len(aid.split('.')) >= 3 
+        and len(aid) < 100 
+        and 'ssteam' in aid.lower()
+    }
     
     print(f"Found {len(valid_ids)} unique potential app IDs.")
     return sorted(list(valid_ids))
 
 def update_apps_json(app_ids):
+    # Ensure data folder directory path exists
+    os.makedirs(os.path.dirname(APPS_JSON_PATH), exist_ok=True)
+
     if not os.path.exists(APPS_JSON_PATH):
         existing_apps = []
     else:
@@ -64,43 +84,40 @@ def update_apps_json(app_ids):
             except json.JSONDecodeError:
                 existing_apps = []
 
-    existing_ids = {app['id'] for app in existing_apps}
     updated_apps = {app['id']: app for app in existing_apps}
-
     new_apps_count = 0
+
     for app_id in app_ids:
         print(f"Processing {app_id}...")
         try:
             details = get_app_details(app_id)
             app_data = {
                 "id": app_id,
-                "name": details['title'],
-                "icon": details['icon']
+                "name": details.get('title', 'Unknown Name'),
+                "icon": details.get('icon', '')
             }
             
             if app_id not in updated_apps:
                 new_apps_count += 1
-                print(f"  + New app: {details['title']}")
-            else:
-                # Update existing if needed (e.g. icon might change)
-                pass
+                print(f"  + New app discovered: {app_data['name']}")
             
             updated_apps[app_id] = app_data
         except Exception as e:
-            print(f"  - Error fetching details for {app_id}: {e}")
+            # If an app is unlisted or region-locked to your current IP, skip cleanly
+            print(f"  - Skipping {app_id}: {e}")
 
-    # Convert back to list and sort by name
-    final_apps_list = sorted(updated_apps.values(), key=lambda x: x['name'])
+    # Sort alphabetically by application name
+    final_apps_list = sorted(updated_apps.values(), key=lambda x: x['name'].lower())
 
     with open(APPS_JSON_PATH, 'w', encoding='utf-8') as f:
         json.dump(final_apps_list, f, indent=4, ensure_ascii=False)
 
-    print(f"Done! Updated {APPS_JSON_PATH}.")
-    print(f"Total apps: {len(final_apps_list)} ({new_apps_count} new)")
+    print(f"\nDone! Updated {APPS_JSON_PATH}.")
+    print(f"Total tracked apps: {len(final_apps_list)} ({new_apps_count} new this run)")
 
 if __name__ == "__main__":
     ids = scrape_app_ids()
     if ids:
         update_apps_json(ids)
     else:
-        print("No app IDs found. Scraper might need updating.")
+        print("No app IDs found. Check network connection or proxy settings.")
