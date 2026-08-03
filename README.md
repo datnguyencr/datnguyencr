@@ -142,16 +142,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 </tr>
 </table>
 
-## 🔧 Tools & Libraries
-
-- [Placeholder](https://datnguyencr.github.io/placeholder/)
-- [ASCII Art](https://datnguyencr.github.io/ascii_art/)
-- [Image Rotator](https://datnguyencr.github.io/image-rotator/)
-- [PDF To Image Converter](https://github.com/datnguyencr/pdf-to-image-converter)
-- [Image Converter](https://github.com/datnguyencr/image-converter)
-
----
-
 ## 📫 Contact
 
 - LinkedIn: [dat-nguyen-3aa7bb117](https://www.linkedin.com/in/dat-nguyen-3aa7bb117/)

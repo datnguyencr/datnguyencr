@@ -41,7 +41,6 @@ void main() {
     }).toList(),
   );
 
-  buffer.writeln(_tools());
   buffer.writeln(_contact());
   buffer.writeln(_quote());
 
