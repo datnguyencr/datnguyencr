@@ -16,7 +16,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 ## 📂 Featured Projects
 
-### 📱 Mobile Apps (62)
+### 📱 Mobile Apps (73)
 
 <table>
 <tr>
@@ -28,6 +28,8 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.apk_extractor">Apk Extractor</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.app_lock">App Lock</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.aqua_guppy">Aqua Guppy</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.audio_recorder">Audio Recorder</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.battery_info">Battery Info</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.blood_sugar_monitor">Blood Sugar Monitor</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.boucingball">Bouncing Ball - Live Wallpaper</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.bubble_level">Bubble Level</a></li>
@@ -41,10 +43,13 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.cv_builder">CV Builder</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.interest_calculator">Công Cụ Tính Lãi Suất</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.chess">Daily Chess</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.daily_wallpaper">Daily Wallpaper</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.device_info">Device Info</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.d2_items">Diablo 2 Items</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.d2_tools">Diablo 2 Tools</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.d2_wiki">Diablo 2 Wiki</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.easy_note">Easy Note</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.event_reminder">Event Reminder</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.game_of_life">Game of Life</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.gif_wallpaper">GIF Wallpaper</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.gridtool">Grid Tool</a></li>
@@ -53,23 +58,28 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.led_pixel_display">LED Pixel Display</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.lol_build">Lol Build</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.lol_wiki">LoL Wiki</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar">Lịch Vạn Niên</a></li>
 </ul>
 </td>
 <td valign="top" width="50%">
 <ul>
-<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar">Lịch Vạn Niên</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.maze_puzzle">Maze Puzzle</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.medicinal_herbs">Medicinal Herbs</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.memory_test">Memory Test</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.mewpedia">Mewpedia – Cat Encyclopedia</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.minimal_clock">Minimal Clock</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.money_manager">Money Manager</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.notification_history">Notification History</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pattern_canvas">Pattern Canvas</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pattern_maker">Pattern Maker</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pawpedia">Pawpedia – Dog Encyclopedia</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.periodic_table">Periodic Table</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.photo_widget">Photo Widget</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pixeldrawer">Pixel Drawer</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.planet_explorer">Planet Explorer</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.poecurrency">PoE Currency</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.poe_divination_card">PoE Div Card</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.poe_wiki">PoE Wiki</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pregnancy_tracker">Pregnancy Tracker</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.protractor">Protractor</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.qr_manager">QR Manager</a></li>
@@ -77,6 +87,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.random_generator">Random Generator</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.reduce_image">Reduce Image</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.reflex_game">Reflex Game</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.screenshot">Screenshot</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.sliding_puzzle">Sliding Puzzle</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.smart_light">Smart Light</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.sound_level">Sound Level</a></li>

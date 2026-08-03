@@ -30,6 +30,16 @@
         "icon": "https://play-lh.googleusercontent.com/8OLHjQ7QlqrF-0tMCOdVeTXgiuZGUhNmZN_IKCJgbU25UGa-9Ahn5gMnDAhrR9bhfmulRaZmrdNN_L7_SSIw"
     },
     {
+        "id": "com.ssteam.audio_recorder",
+        "name": "Audio Recorder",
+        "icon": "https://play-lh.googleusercontent.com/KMkRlL-EWP9JAi0QDB6EuXDhR4rnBWzE5-ProTw4GkR-IgXq4AyxtYuOOwDFqB7V3V2yEGd_PZmCat8HKq8Kzg"
+    },
+    {
+        "id": "com.ssteam.battery_info",
+        "name": "Battery Info",
+        "icon": "https://play-lh.googleusercontent.com/6ZSxZYaTUpn7ByoibGlyxtCZzLh04nvyQcsLXgdBcuhGCdo2s2J56bhHGNyHU2Lv8WZz3mZcd-xUodImmpAFnw"
+    },
+    {
         "id": "com.ssteam.blood_sugar_monitor",
         "name": "Blood Sugar Monitor",
         "icon": "https://play-lh.googleusercontent.com/TgLThZwvvUyFl9MUlgS_TL_4vpj0C203V3HJQX9GoFKxR27cV1ofFvkP3UoBV4gyNQxOtXDZaHiBdvDuQTsO"
@@ -52,7 +62,7 @@
     {
         "id": "com.ssteam.pokemon_card_maker",
         "name": "Card Maker",
-        "icon": "https://play-lh.googleusercontent.com/1y6V-_FySDeK6GyR2VfejSDS3bSZmn08X9TezJNxNLj8592Zc5Mpzz57gbZF6XEu81-z"
+        "icon": "https://play-lh.googleusercontent.com/YvgBgwuzcRRI3d__6I3mjv_YFyuNAPoG7H5GtOVSrN0LaAGbnduakc9bHBHTVP1KmAuv-4mU7KCOqJz5JLGL"
     },
     {
         "id": "com.ssteam.chess_clock",
@@ -67,7 +77,7 @@
     {
         "id": "com.ssteam.country_flags",
         "name": "Country Flags",
-        "icon": "https://play-lh.googleusercontent.com/sZGfqPTgNnZ2jrIklDIlsL3hyr_PR9dRP90YHaKi6EhSlflSTRcMGcMaYJCF8O0neS0"
+        "icon": "https://play-lh.googleusercontent.com/qMOMhV9q21xzF8QlKA_tpEBELyecsFxW1qV002VcwdcVk9VAIPZkrRYYnOJR23MBaIAK3eGXwziNsNmrLNwRqw"
     },
     {
         "id": "com.ssteam.crochet_pattern_maker",
@@ -95,9 +105,14 @@
         "icon": "https://play-lh.googleusercontent.com/P1c0VOKecGpAccrfoU30dnYNArTVeClhmLRfJpOQBeP51spir3dY4y8Sfhl6GzDqUSmSWefA73Humq4KUVAqQg"
     },
     {
+        "id": "com.ssteam.daily_wallpaper",
+        "name": "Daily Wallpaper",
+        "icon": "https://play-lh.googleusercontent.com/x9ZVYej816vWGO4zwYAahU36Qjvt3X8htxDqJAlPzSIYnpvXG095gRrxVwXHEjZfHJKG-mcjcR4U_zBe0q0ytw"
+    },
+    {
         "id": "com.ssteam.device_info",
         "name": "Device Info",
-        "icon": "https://play-lh.googleusercontent.com/7vAcqIBmuDftsFWPR09dcyT7hGdzJwLDbxvKCGgOWbLBlw3TC_mQO3BW9EYk8_rFObok"
+        "icon": "https://play-lh.googleusercontent.com/lUOK-eBRdNF5N-nKCFjnnLJ4AcogIItbEeN_BcPvkNl2gUK5MXpbpaL1a615xm95r7rUTBcNuqo7KhsGSgFfS38"
     },
     {
         "id": "com.ssteam.d2_items",
@@ -113,6 +128,16 @@
         "id": "com.ssteam.d2_wiki",
         "name": "Diablo 2 Wiki",
         "icon": "https://play-lh.googleusercontent.com/wTcpj8I5_fzYRJodEnM2AQnabLzCkOSxZIfdsIEfPhKmJ3S8w5-6zGRdsW4uJobI0ArsuW3ya0EXIeIU478h"
+    },
+    {
+        "id": "com.ssteam.easy_note",
+        "name": "Easy Note",
+        "icon": "https://play-lh.googleusercontent.com/s4Gud5xGv5qiITgjIy-ZDSOqzu8iX4Sl6OeBWezKwG3FOGSYarxTugexBX-ciQkMCSJIx2lfs5SVscoNdL-S0sk"
+    },
+    {
+        "id": "com.ssteam.event_reminder",
+        "name": "Event Reminder",
+        "icon": "https://play-lh.googleusercontent.com/Dy6z-QpCfLWKOu87bd3SuQINX0zb3shXBiomur8La6WGwOZmTmSxRX7AM9x-CtmcTyt_fEuz5dV_GkcQQNjR4g"
     },
     {
         "id": "com.ssteam.game_of_life",
@@ -132,7 +157,7 @@
     {
         "id": "com.ssteam.iq_test",
         "name": "IQ Test",
-        "icon": "https://play-lh.googleusercontent.com/85coVu1ACMvAm0MBidi5b1UDbpjfWJg95ZQANyHrdLg9o-sDJgXaHXc_V4fnbhb5VLB-"
+        "icon": "https://play-lh.googleusercontent.com/CRgCtMGDeXhrH1M-DCpp8RRqpOe6gYDCA3SPF1FYj1jkZqqcuIV659jajt6m6GlDejzlijUK5mtaCvdLP2-D4g"
     },
     {
         "id": "com.ssteam.jigsaw_puzzle",
@@ -190,6 +215,21 @@
         "icon": "https://play-lh.googleusercontent.com/XXFG6e0N-DYZDKrkj6Qv0Cmmd0cxoOpH2BtT8xwjd7jG-foy5NekibBoaJgcK0iWERqJ7krDRCQRE0dxTX4U"
     },
     {
+        "id": "com.ssteam.notification_history",
+        "name": "Notification History",
+        "icon": "https://play-lh.googleusercontent.com/DpTIlwKuK31OsXxYSyetI27q6m8U_dsMugDPk1XOkZLCr-ZpyDH4u-nKUVmwLmHz8mpH2lrlHYkjAuqdvsRlLA"
+    },
+    {
+        "id": "com.ssteam.pattern_canvas",
+        "name": "Pattern Canvas",
+        "icon": "https://play-lh.googleusercontent.com/iyK1QOh3AVDdjntEbDtCmx3qovGxTRHyS88ikqZZ7pIvXdpRk4Cb5-rPihmXQPycuN4AwrxDvF4LVxSVXJpmLuk"
+    },
+    {
+        "id": "com.ssteam.pattern_maker",
+        "name": "Pattern Maker",
+        "icon": "https://play-lh.googleusercontent.com/4lYAS7OUYPFtjkk24e2Y2K7JD0hjO52kdAqzuZ8qbt6bSSRaFOhq-ecJkaU84Ke2GkbPhgAQWBPvIvWUEtU5NA"
+    },
+    {
         "id": "com.ssteam.pawpedia",
         "name": "Pawpedia – Dog Encyclopedia",
         "icon": "https://play-lh.googleusercontent.com/mc5CBP1U6Elgn6WwQ2d7puoEACdsIo96Ax-OLpyy-luayIzaMl51kxm3fIyEyrBXjXfoy7klcFVNPOYHUgV9Fr4"
@@ -200,24 +240,34 @@
         "icon": "https://play-lh.googleusercontent.com/Gz1HgqF3P4hv36e2IgyJXcCXg0ZPuEMhg_4spoBDIRq0YOKLH2y1LAehAR79TJlj1nI"
     },
     {
+        "id": "com.ssteam.photo_widget",
+        "name": "Photo Widget",
+        "icon": "https://play-lh.googleusercontent.com/7mvyTMQ8OVmYK8by6sgjab9UG2gteim_BRrdfIgN9kyeOx0YGJcX9itid9wDJ-wdtmMOltgorbCH5VG5e3u4aw"
+    },
+    {
         "id": "com.ssteam.pixeldrawer",
         "name": "Pixel Drawer",
-        "icon": "https://play-lh.googleusercontent.com/RP5lwbhgbP8iTBy5S_yet5UeuDxH3ym9RhPiSdg43BYOSe3wq_cU1Uu6fkj9cIfqQyXus1E6B_rquaZTVXdKDhE"
+        "icon": "https://play-lh.googleusercontent.com/u60ltF2fHwkK9PC7ogj5ILEWw0uIrZmxmwkayPosh04plGRuJfQezhOYVRh9V4rYhImCINMIasXbjW09kg37NpE"
     },
     {
         "id": "com.ssteam.planet_explorer",
         "name": "Planet Explorer",
-        "icon": "https://play-lh.googleusercontent.com/XwFoaOx9FWPas40y_8evlmaUNgZDb0srg95Iu-Wp9mx5_8OV9Akr1KupXh-qcVyiYCRu"
+        "icon": "https://play-lh.googleusercontent.com/kRvmkbFl9Zg8LPi_f1mhYsc51TW1owAUX1_D_Rlei5Q5uMC4em1X8XI9CciTkPnXYTPj3OwyU7QgaiXzcSw"
     },
     {
         "id": "com.ssteam.poecurrency",
         "name": "PoE Currency",
-        "icon": "https://play-lh.googleusercontent.com/5qdLpr7pDkpjRwx3uCiPKJNNs17Oe9380p8HZ1XxbZ63u6l_icLupQk0KC7PP8Nb5wk"
+        "icon": "https://play-lh.googleusercontent.com/G3LTHGIwcKc1QhAZi4ilNGtu9DkZy-8cEOAYOIrRb6HJu3QTu36kbHC5B9UeAf7UkvTDim59CtBYTkxiuyk3"
     },
     {
         "id": "com.ssteam.poe_divination_card",
         "name": "PoE Div Card",
         "icon": "https://play-lh.googleusercontent.com/XMSo62pLqvItB0dWyse4hRIS7nhS5wJjfmOstmf0E49nSuCLe341fUQgonJo8Ngx42w9E0rrgfzBEEqTQN0Kqg"
+    },
+    {
+        "id": "com.ssteam.poe_wiki",
+        "name": "PoE Wiki",
+        "icon": "https://play-lh.googleusercontent.com/uSJNgAyVXbFqGIEZAaAOagFgL1dPPh-QvHTO9CsrOS0R7OqSMgypEGK4HBeMVJqVzbV-0XZYxFVPqvluQzHx"
     },
     {
         "id": "com.ssteam.pregnancy_tracker",
@@ -242,12 +292,12 @@
     {
         "id": "com.ssteam.random_generator",
         "name": "Random Generator",
-        "icon": "https://play-lh.googleusercontent.com/Bi7pZieSmhNb3JI--tCcw8SToc_EblqHs0oD7zEXq8FIbRpEpjqaL2IqFwMAYMN5ltP0"
+        "icon": "https://play-lh.googleusercontent.com/Tc5dh9AMrIhGnLUMzCp2qBxh2UgLbUHPefgR_g1UrBejEjeoI-c-AH2nOokxYWI3IYEmniPeKTfheSssU1Qa"
     },
     {
         "id": "com.ssteam.reduce_image",
         "name": "Reduce Image",
-        "icon": "https://play-lh.googleusercontent.com/lJRGOnwtSVroP54ou4207v43ruEwv2F7a37VNhI-ffaddQWd7yufzoKGWC39emaXIS0"
+        "icon": "https://play-lh.googleusercontent.com/RAk2b1mX1pylx0skQJH6hGwscPQwnmD2AlPvBjyFtX4rH98RDh7Tz7h-VKMKKNgoiLNyyFNw0J9WxBMjV9gM"
     },
     {
         "id": "com.ssteam.reflex_game",
@@ -255,9 +305,14 @@
         "icon": "https://play-lh.googleusercontent.com/DnAW-n0r9mXKp_k9u2DOBaqxqBX-L2UN6yTFLdiSeuaW05hTlNa0lutSttTjlnTfF8rNvNHoHLjdXZqBqiD7ik4"
     },
     {
+        "id": "com.ssteam.screenshot",
+        "name": "Screenshot",
+        "icon": "https://play-lh.googleusercontent.com/uLmoOafkgg0cYF8BOoTByuArdBjfZNxh3ZoQF52HFO48alCXS8BSk6fPGeo99MN9JdQpCz3FonD-MCoB3VgM"
+    },
+    {
         "id": "com.ssteam.sliding_puzzle",
         "name": "Sliding Puzzle",
-        "icon": "https://play-lh.googleusercontent.com/prKynU4Ntp8O8-_32XSDZwDV0fbKRPGiStwDBcxI-PDVpwBKaDMPte1r1Y9KA5tvHg"
+        "icon": "https://play-lh.googleusercontent.com/66qGqZjqT8yJftCm9d8tmlCZnWt2SUwBrIPszS3Tqy4Zy5_RvUynj5SWfRec7-vVB4CdEWc_3dX44bbrUjoM"
     },
     {
         "id": "com.ssteam.smart_light",
@@ -297,12 +352,12 @@
     {
         "id": "com.ssteam.yugioh_card_builder",
         "name": "Yugioh Card Builder",
-        "icon": "https://play-lh.googleusercontent.com/ee2X-oT1Dk3AoGNd-5XJcJOoiGCOgMQNRSJmBye9Z6R24aeH-tszYn3RTJGdqPsQQQk"
+        "icon": "https://play-lh.googleusercontent.com/UIBi42fIliH4XQFGarluYc3Uf6rtoLEhQ2AJ_xREQQ4eAEoqNwAH6FmdbUNFSpveS9jScLLKRf7ZYRix65L_"
     },
     {
         "id": "com.ssteam.yugioh_deck_builder",
         "name": "Yugioh Deck Builder",
-        "icon": "https://play-lh.googleusercontent.com/u-ifRTpgH8Ot-qspPeYp5I521Ch3SZmu_eOfp3zRxo1DHqiNG3WUd8I0AfkLOrshkXk"
+        "icon": "https://play-lh.googleusercontent.com/osM4pvu1KnZCkXE03RxdsJWcus8iZlfk8Q_Q8HjOnvC0BUBlcMqNSq7ylvxN9dUgv0J4RUZXahC6nTg3IP3VQQ"
     },
     {
         "id": "com.ssteam.gplx",
