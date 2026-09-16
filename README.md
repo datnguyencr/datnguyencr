@@ -16,7 +16,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 ## 📂 Featured Projects
 
-### 📱 Mobile Apps (73)
+### 📱 Mobile Apps (77)
 
 <table>
 <tr>
@@ -32,10 +32,12 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.battery_info">Battery Info</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.blood_sugar_monitor">Blood Sugar Monitor</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.boucingball">Bouncing Ball - Live Wallpaper</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.brick_game">Brick Game</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.bubble_level">Bubble Level</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.hide_files_calculator">Calculator Vault</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.pokemon_card_maker">Card Maker</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.chess_clock">Chess Clock</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.color_mixer">Color Mixer</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.compass">Compass</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.country_flags">Country Flags</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.crochet_pattern_maker">Crochet Pattern Maker</a></li>
@@ -56,13 +58,14 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.iq_test">IQ Test</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.jigsaw_puzzle">Jigsaw Puzzle</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.led_pixel_display">LED Pixel Display</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.live_wallpaper">Live Wallpaper</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.lol_build">Lol Build</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.lol_wiki">LoL Wiki</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar">Lịch Vạn Niên</a></li>
 </ul>
 </td>
 <td valign="top" width="50%">
 <ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar">Lịch Vạn Niên</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.maze_puzzle">Maze Puzzle</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.medicinal_herbs">Medicinal Herbs</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.memory_test">Memory Test</a></li>
@@ -94,6 +97,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.speed_test">Speed Test</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.stock_simulator">Stock Simulator</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.sudoku">Sudoku</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.tetrix">Tetrix - Brick Game</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.tictactoe">Tic Tac Toe</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.wifi_analyzer">WiFi Analyzer</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.yugioh_card_builder">Yugioh Card Builder</a></li>
