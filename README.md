@@ -16,7 +16,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 ## 📂 Featured Projects
 
-### 📱 Mobile Apps (77)
+### 📱 Mobile Apps (79)
 
 <table>
 <tr>
@@ -39,6 +39,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.chess_clock">Chess Clock</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.color_mixer">Color Mixer</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.compass">Compass</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.hide_files_contact">Contact Vault</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.country_flags">Country Flags</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.crochet_pattern_maker">Crochet Pattern Maker</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.cube_solver">Cube Solver</a></li>
@@ -90,6 +91,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.random_generator">Random Generator</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.reduce_image">Reduce Image</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.reflex_game">Reflex Game</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.ssteam.screen_recorder">Screen Recorder</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.screenshot">Screenshot</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.sliding_puzzle">Sliding Puzzle</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.ssteam.smart_light">Smart Light</a></li>

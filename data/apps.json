@@ -85,6 +85,11 @@
         "icon": "https://play-lh.googleusercontent.com/Z5xji5g2RyytPeIm5WmZmq-tlf1H8t9ZBKwEFFYpD8_kPkB_oUVx9j5h04n_071x5PtlXkdvfHoGxakGHFdC"
     },
     {
+        "id": "com.ssteam.hide_files_contact",
+        "name": "Contact Vault",
+        "icon": "https://play-lh.googleusercontent.com/iTr11q3CmAyV97y5vwalrjsYlDFJlYB1PwFy0KzwF08N1oGssuI26h8q8pCtinfBZ7PQbWp-YXYKTBTaYNpd6vk"
+    },
+    {
         "id": "com.ssteam.country_flags",
         "name": "Country Flags",
         "icon": "https://play-lh.googleusercontent.com/qMOMhV9q21xzF8QlKA_tpEBELyecsFxW1qV002VcwdcVk9VAIPZkrRYYnOJR23MBaIAK3eGXwziNsNmrLNwRqw"
@@ -252,7 +257,7 @@
     {
         "id": "com.ssteam.periodic_table",
         "name": "Periodic Table",
-        "icon": "https://play-lh.googleusercontent.com/Gz1HgqF3P4hv36e2IgyJXcCXg0ZPuEMhg_4spoBDIRq0YOKLH2y1LAehAR79TJlj1nI"
+        "icon": "https://play-lh.googleusercontent.com/06W23haOojDiDyMPJdNW2xfpaAlzdMNS6FdEUC2-XH4UDE5O8En10_gJpEcqgnx_5OpEnq-xS6lJ0fblJmaLGw"
     },
     {
         "id": "com.ssteam.photo_widget",
@@ -292,17 +297,17 @@
     {
         "id": "com.ssteam.protractor",
         "name": "Protractor",
-        "icon": "https://play-lh.googleusercontent.com/FKL2ci0A4AoyGId2MWk3lUo5_UAGtG8onn0FHbTxnsDbzTmgvcc_tt1KMoNpJARRvfU"
+        "icon": "https://play-lh.googleusercontent.com/0IedvKL3pk3_rzE7DAb4wzjxi4sp_cm5RuhoXNde2CYdk6i7joY7WAY6IFYsvCqzfNCwz7w-0zjY4U1aNLSAQg"
     },
     {
         "id": "com.ssteam.qr_manager",
         "name": "QR Manager",
-        "icon": "https://play-lh.googleusercontent.com/uY-6Hid9FceaVu6caPXIHrYrJmM7u2Hnquv4T0B67dB42cC72u5WHMnl8s1Ot-1lCcg"
+        "icon": "https://play-lh.googleusercontent.com/5hh_E250azoheXaiKHPuYf7we2NPyQNkdfimWvoBfKIXxCMeXyr7xpxUkbkDboyDV891lBQqzCp8z5Se_FNCAtY"
     },
     {
         "id": "com.ssteam.rainsimulator",
         "name": "Rain Simulator",
-        "icon": "https://play-lh.googleusercontent.com/Lp9k7Yn2m_GXYynt190kdb1EWROLW7RxTc_6RkQRuUy7q47EJQ4CVhxxiC6St3_4ww"
+        "icon": "https://play-lh.googleusercontent.com/82aH1zdoUB77N83QZTwRYOvfEwT3434u9gGwmojtFbqSfu6Rirc6SbUpZFR4MFHem-Ah1PurRO0hHKkI4e4d"
     },
     {
         "id": "com.ssteam.random_generator",
@@ -318,6 +323,11 @@
         "id": "com.ssteam.reflex_game",
         "name": "Reflex Game",
         "icon": "https://play-lh.googleusercontent.com/DnAW-n0r9mXKp_k9u2DOBaqxqBX-L2UN6yTFLdiSeuaW05hTlNa0lutSttTjlnTfF8rNvNHoHLjdXZqBqiD7ik4"
+    },
+    {
+        "id": "com.ssteam.screen_recorder",
+        "name": "Screen Recorder",
+        "icon": "https://play-lh.googleusercontent.com/vpq3Liz99eoqJOdAhVyjC9ocsZwlErU74GQi0DWswkES6IZKdA3XUgc8KOXW3kd9glfuh6ybOFXMEDNYyQxM"
     },
     {
         "id": "com.ssteam.screenshot",
