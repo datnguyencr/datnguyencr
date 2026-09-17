@@ -116,15 +116,15 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <tr>
 <td valign="top" width="50%">
 <ul>
-<li><a href="https://datnguyencr.github.io/rain-simulator-web/"><img src="https://play-lh.googleusercontent.com/Lp9k7Yn2m_GXYynt190kdb1EWROLW7RxTc_6RkQRuUy7q47EJQ4CVhxxiC6St3_4ww=w240-h480-rw" width=48" height="48" /> Rain Simulator</a></li>
-<li><a href="https://datnguyencr.github.io/cv-builder-web/"><img src="https://play-lh.googleusercontent.com/9Lwfn5WWsqlqXCVKO8aIEMCjlo9YaqI-xtCXdAXaaFsToofS6zbJgUecUDJ0W1mNcFXT=s256-rw" width=48" height="48" /> CV Builder</a></li>
-<li><a href="https://datnguyencr.github.io/planet-explorer-web/"><img src="https://play-lh.googleusercontent.com/XwFoaOx9FWPas40y_8evlmaUNgZDb0srg95Iu-Wp9mx5_8OV9Akr1KupXh-qcVyiYCRu=s256-rw" width=48" height="48" /> Planet Explorer</a></li>
+<li><a href="https://datnguyencr.github.io/rain-simulator-web/">Rain Simulator</a></li>
+<li><a href="https://datnguyencr.github.io/cv-builder-web/">CV Builder</a></li>
+<li><a href="https://datnguyencr.github.io/planet-explorer-web/">Planet Explorer</a></li>
 </ul>
 </td>
 <td valign="top" width="50%">
 <ul>
-<li><a href="https://datnguyencr.github.io/sudoku-web/"><img src="https://play-lh.googleusercontent.com/du7PxHCXKkqCg-IFqxbkQeK3t6JgZwDSTo_nQQX4oXY2-7yBixCvDy4dBa__wh64JA=w240-h480-rw" width=48" height="48" /> Sudoku</a></li>
-<li><a href="https://datnguyencr.github.io/sliding-puzzle-web/"><img src="https://play-lh.googleusercontent.com/prKynU4Ntp8O8-_32XSDZwDV0fbKRPGiStwDBcxI-PDVpwBKaDMPte1r1Y9KA5tvHg=w240-h480-rw" width=48" height="48" /> Sliding Puzzle</a></li>
+<li><a href="https://datnguyencr.github.io/sudoku-web/">Sudoku</a></li>
+<li><a href="https://datnguyencr.github.io/sliding-puzzle-web/">Sliding Puzzle</a></li>
 </ul>
 </td>
 </tr>
@@ -136,13 +136,13 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 <tr>
 <td valign="top" width="50%">
 <ul>
-<li><a href="https://chromewebstore.google.com/detail/file-downloader/hahkepphjffjcghlgfbeedkpmcncllag"><img src="https://lh3.googleusercontent.com/nvIu_TK6SyE0WMSbYckaDQ3TvZ1PSlauYy0FiNpVfCm8ESVtnaJP1kXBdK6NWUBj9MJjnchvq-i2AvTjZmfBNL6EUZs=s1280-w1280-h800" width="48" height="48" /> File Downloader</a></li>
-<li><a href="https://chromewebstore.google.com/detail/color-picker-cursor/eacccbllbdkdhieahoijpbnkkdnhllnl"><img src="https://lh3.googleusercontent.com/qZndIQ9rIyVRmU_kJfHTo1vvsLrWykypU_wNml5RJIUl733yK2ZnH3u3roQBKprsWA8anFA3GKPbb5zsaRzbijLx00s=s1280-w1280-h800" width="48" height="48" /> Color Picker Cursor</a></li>
+<li><a href="https://chromewebstore.google.com/detail/file-downloader/hahkepphjffjcghlgfbeedkpmcncllag">File Downloader</a></li>
+<li><a href="https://chromewebstore.google.com/detail/color-picker-cursor/eacccbllbdkdhieahoijpbnkkdnhllnl">Color Picker Cursor</a></li>
 </ul>
 </td>
 <td valign="top" width="50%">
 <ul>
-<li><a href="https://chromewebstore.google.com/detail/web-font-override/bfklnnbknkgcalgnejncmfkkfohgadhj"><img src="https://lh3.googleusercontent.com/3JWAlIbjN3ZxOTKvI0fagpuMDn8kO0kvtpE-QsF4kGY3cSfk62rVri5l37xKlw0mASbvNf5CnoYpgzQ7HFerEDIxnA=s1280-w1280-h800" width="48" height="48" /> Web Font Override</a></li>
+<li><a href="https://chromewebstore.google.com/detail/web-font-override/bfklnnbknkgcalgnejncmfkkfohgadhj">Web Font Override</a></li>
 </ul>
 </td>
 </tr>

@@ -29,7 +29,7 @@ void main() {
     title: '🌐 Web Apps (${webs.length})',
 
     items: webs.map<String>((item) {
-      return _link('<img src="${item['icon']}" width=48" height="48" /> ${item['name']}', item['url']);
+      return _link('${item['name']}', item['url']);
     }).toList(),
   );
 
@@ -37,7 +37,7 @@ void main() {
     buffer: buffer,
     title: '🧩 Chrome Extensions (${chrome.length})',
     items: chrome.map<String>((item) {
-      return _link('<img src="${item['icon']}" width="48" height="48" /> ${item['name']}', item['url']);
+      return _link('${item['name']}', item['url']);
     }).toList(),
   );
 
