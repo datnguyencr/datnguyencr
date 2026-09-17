@@ -18,7 +18,7 @@ void main() {
     title: '📱 Mobile Apps (${apps.length})',
     items: apps.map<String>((item) {
       return _link(
-        '<img src="${item['icon']}=s32" width="24" height="24" /> ${item['name']}',
+        '<img src="${item['icon']}=s64" width="24" height="24" /> ${item['name']}',
         'https://play.google.com/store/apps/details?id=${item['id']}',
       );
     }).toList(),
