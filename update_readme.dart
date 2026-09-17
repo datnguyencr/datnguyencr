@@ -18,7 +18,7 @@ void main() {
     title: '📱 Mobile Apps (${apps.length})',
     items: apps.map<String>((item) {
       return _link(
-        '<img src="${item['icon']}=s128" width="24" height="24" /> ${item['name']}',
+        '<img src="${item['icon']}=s64" width="48" height="48" /> ${item['name']}',
         'https://play.google.com/store/apps/details?id=${item['id']}',
       );
     }).toList(),
@@ -29,7 +29,7 @@ void main() {
     title: '🌐 Web Apps (${webs.length})',
 
     items: webs.map<String>((item) {
-      return _link('<img src="${item['icon']}=s128" width="24" height="24" /> ${item['name']}', item['url']);
+      return _link('<img src="${item['icon']}=s64" width=48" height="48" /> ${item['name']}', item['url']);
     }).toList(),
   );
 
@@ -37,7 +37,7 @@ void main() {
     buffer: buffer,
     title: '🧩 Chrome Extensions (${chrome.length})',
     items: chrome.map<String>((item) {
-      return _link('<img src="${item['icon']}=s128" width="24" height="24" /> ${item['name']}', item['url']);
+      return _link('<img src="${item['icon']}=s64" width="48" height="48" /> ${item['name']}', item['url']);
     }).toList(),
   );
 
