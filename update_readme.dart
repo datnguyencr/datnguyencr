@@ -13,16 +13,11 @@ void main() {
 
   buffer.writeln('## 📂 Featured Projects\n');
 
-  _writeTwoColumnSection(
-    buffer: buffer,
-    title: '📱 Mobile Apps (${apps.length})',
-    items: apps.map<String>((item) {
-      return _link(
-        '<img src="${item['icon']}=s64" width="48" height="48" /> ${item['name']}',
-        'https://play.google.com/store/apps/details?id=${item['id']}',
-      );
-    }).toList(),
-  );
+_writeAppGridSection(
+  buffer: buffer,
+  title: '📱 Mobile Apps (${apps.length})',
+  items: apps,
+);
 
   _writeTwoColumnSection(
     buffer: buffer,
@@ -50,7 +45,39 @@ void main() {
 }
 
 String _link(String name, String url) => '<a href="$url">$name</a>';
+_writeAppGridSection({
+  required StringBuffer buffer,
+  required String title,
+  required List<Map<String, dynamic>> items,
+}) {
+  buffer.writeln('### $title\n');
+  buffer.writeln('<table><tr>');
 
+  for (var i = 0; i < items.length; i++) {
+    final item = items[i];
+
+    final icon = item['icon'];
+    final name = item['name'];
+    final id = item['id'];
+
+    buffer.writeln('''
+<td align="center" valign="top" width="20%">
+  <a href="https://play.google.com/store/apps/details?id=$id">
+    <img src="${icon}=s128" width="96" height="96" />
+    <br>
+    <b>$name</b>
+  </a>
+</td>
+''');
+
+    // Five apps per row
+    if ((i + 1) % 5 == 0 && i != items.length - 1) {
+      buffer.writeln('</tr><tr>');
+    }
+  }
+
+  buffer.writeln('</tr></table>\n');
+}
 void _writeTwoColumnSection({
   required StringBuffer buffer,
   required String title,
