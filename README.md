@@ -16,7 +16,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 
 ## 📂 Featured Projects
 
-### 📱 Mobile Apps (79)
+### 📱 Mobile Apps (83)
 
 <table><tr>
 <td align="center" valign="top" width="20%">
@@ -118,6 +118,14 @@ I adapt quickly to new technologies, write clean, reusable components and librar
 </td>
 
 <td align="center" valign="top" width="20%">
+  <a href="https://play.google.com/store/apps/details?id=com.ssteam.butterfly_wiki">
+    <img src="https://play-lh.googleusercontent.com/5t7PTHcuHb178dMsFFcZ1njtPM7gQGGsa35psT4t5CRs1kvs5YVMFFclLE4MPPvv8Ja8LoQtWSHbBHAl2y_hKq8=s128" width="96" height="96" />
+    <br>
+    <b>Butterfly Wiki</b>
+  </a>
+</td>
+
+<td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.hide_files_calculator">
     <img src="https://play-lh.googleusercontent.com/2f1Pt2EVGuvC8FJJKQv6SWp_W1pqvGE17hNlbnidLrXW-1rwK-HdCOKtqgnXZCB5EzYgbqXdbYhfS9x08yKaSg=s128" width="96" height="96" />
     <br>
@@ -133,6 +141,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.chess_clock">
     <img src="https://play-lh.googleusercontent.com/IGJhxUvwKXSBLmzO-kAM0Ci55MttBImDCtVNI_x_VonAk0zWFH1cvpsymhI170qpXUp0L75eV6CkIxKAWMzLyg=s128" width="96" height="96" />
@@ -141,7 +150,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.color_mixer">
     <img src="https://play-lh.googleusercontent.com/E0xvefWgP-noHRglYjgR67ub7J3WV_2Q7mHpzvR2ltCda9vlUTZOaD-HpiYQHDaOQl_xfH6RWjQeojj-gR7_Cw=s128" width="96" height="96" />
@@ -174,6 +182,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.crochet_pattern_maker">
     <img src="https://play-lh.googleusercontent.com/RdbrxGrbgI8u9QqEYd8XUmxEDfmZOrne7X2MvH_Y6GvLohZidpGOlMwHhFisa69YmTpso9uGoC8PM_wycccqGQ=s128" width="96" height="96" />
@@ -182,7 +191,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.cube_solver">
     <img src="https://play-lh.googleusercontent.com/b-ELj-kZDcHRbJZ5qxQgJDyzyBCv_zNDXz17INFsl26JHllyiT7G-OfEdeBCVH5HX-v_M9tUBi0QFCogVXGLLBg=s128" width="96" height="96" />
@@ -215,6 +223,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.daily_wallpaper">
     <img src="https://play-lh.googleusercontent.com/x9ZVYej816vWGO4zwYAahU36Qjvt3X8htxDqJAlPzSIYnpvXG095gRrxVwXHEjZfHJKG-mcjcR4U_zBe0q0ytw=s128" width="96" height="96" />
@@ -223,7 +232,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.device_info">
     <img src="https://play-lh.googleusercontent.com/lUOK-eBRdNF5N-nKCFjnnLJ4AcogIItbEeN_BcPvkNl2gUK5MXpbpaL1a615xm95r7rUTBcNuqo7KhsGSgFfS38=s128" width="96" height="96" />
@@ -256,6 +264,15 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
+<td align="center" valign="top" width="20%">
+  <a href="https://play.google.com/store/apps/details?id=com.ssteam.dot_connect">
+    <img src="https://play-lh.googleusercontent.com/i-kMu92Q-bwV1j0GWonsHtFfFRNNFGCxn4OyIh7RGDacD9-6SaDT335SYOPnFZyXD_LadklFf-bOSMZj30SFGw=s128" width="96" height="96" />
+    <br>
+    <b>Dot Connect</b>
+  </a>
+</td>
+
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.easy_note">
     <img src="https://play-lh.googleusercontent.com/s4Gud5xGv5qiITgjIy-ZDSOqzu8iX4Sl6OeBWezKwG3FOGSYarxTugexBX-ciQkMCSJIx2lfs5SVscoNdL-S0sk=s128" width="96" height="96" />
@@ -264,7 +281,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.event_reminder">
     <img src="https://play-lh.googleusercontent.com/Dy6z-QpCfLWKOu87bd3SuQINX0zb3shXBiomur8La6WGwOZmTmSxRX7AM9x-CtmcTyt_fEuz5dV_GkcQQNjR4g=s128" width="96" height="96" />
@@ -289,6 +305,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.gridtool">
     <img src="https://play-lh.googleusercontent.com/wISGJi-Ih_zBHiAHH7gFTU51rl401hdT4Trrbjc6q6aPcwRB7rW-UwtUjF8ItyvVlKzd-oUb0qMZtS318YANwA=s128" width="96" height="96" />
@@ -305,7 +322,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.jigsaw_puzzle">
     <img src="https://play-lh.googleusercontent.com/KQSirwAXQi0omutmXoPDxqM1u-CWWSPXJgTcSbb3VjCGJOl2ZzFvg2f6hIq5hRRh3Cs0OXCG_WLYgV9fx_oAzw=s128" width="96" height="96" />
@@ -330,6 +346,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.lol_build">
     <img src="https://play-lh.googleusercontent.com/X3JZIvInuKhEgm5lthjX7q6fAvjcpXIlkK-62YZJpJrfqENmIAw3BOuI0eFysNMidRdRshSioJRfcj2Bkgs=s128" width="96" height="96" />
@@ -346,7 +363,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.luna_calendar">
     <img src="https://play-lh.googleusercontent.com/DCy6_CAu2xxd52egqVMNXus4aOa8kp7WEqk_DSpFX8BGSue2_ylUvcL--ZhovRWK1vg0naQbahAoBumpDg4zcw=s128" width="96" height="96" />
@@ -371,6 +387,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.memory_test">
     <img src="https://play-lh.googleusercontent.com/QpdK8UKIVePz6JO2XSpOe6VveSZn3Jtq_1Evhdll9pyFNBoNwGE_5sLs564DD-6O4njB1zPUz9zGrSLr-uhQqQ=s128" width="96" height="96" />
@@ -387,7 +404,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.minimal_clock">
     <img src="https://play-lh.googleusercontent.com/-VNXlk9kKiqE4T7nYCy65kFib5kW088oDtSU4YqydzTjclfmDrVhr5E3hfFLRtRc_nrNTQG013dUPmxbTZkO=s128" width="96" height="96" />
@@ -404,6 +420,15 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+<td align="center" valign="top" width="20%">
+  <a href="https://play.google.com/store/apps/details?id=com.ssteam.moon_phase">
+    <img src="https://play-lh.googleusercontent.com/er8-rCYeSEiQn3jnu_SbvkieZpNr2CdgL7NAFwW-tYLVbkCZo__664evGpzm0IYF1okJRNJhLyz1Percu5Jp9A=s128" width="96" height="96" />
+    <br>
+    <b>Moon Phase</b>
+  </a>
+</td>
+
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.notification_history">
     <img src="https://play-lh.googleusercontent.com/DpTIlwKuK31OsXxYSyetI27q6m8U_dsMugDPk1XOkZLCr-ZpyDH4u-nKUVmwLmHz8mpH2lrlHYkjAuqdvsRlLA=s128" width="96" height="96" />
@@ -428,7 +453,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.pawpedia">
     <img src="https://play-lh.googleusercontent.com/mc5CBP1U6Elgn6WwQ2d7puoEACdsIo96Ax-OLpyy-luayIzaMl51kxm3fIyEyrBXjXfoy7klcFVNPOYHUgV9Fr4=s128" width="96" height="96" />
@@ -445,6 +469,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.photo_widget">
     <img src="https://play-lh.googleusercontent.com/7mvyTMQ8OVmYK8by6sgjab9UG2gteim_BRrdfIgN9kyeOx0YGJcX9itid9wDJ-wdtmMOltgorbCH5VG5e3u4aw=s128" width="96" height="96" />
@@ -469,7 +494,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.poecurrency">
     <img src="https://play-lh.googleusercontent.com/G3LTHGIwcKc1QhAZi4ilNGtu9DkZy-8cEOAYOIrRb6HJu3QTu36kbHC5B9UeAf7UkvTDim59CtBYTkxiuyk3=s128" width="96" height="96" />
@@ -486,6 +510,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.poe_wiki">
     <img src="https://play-lh.googleusercontent.com/uSJNgAyVXbFqGIEZAaAOagFgL1dPPh-QvHTO9CsrOS0R7OqSMgypEGK4HBeMVJqVzbV-0XZYxFVPqvluQzHx=s128" width="96" height="96" />
@@ -510,7 +535,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.qr_manager">
     <img src="https://play-lh.googleusercontent.com/5hh_E250azoheXaiKHPuYf7we2NPyQNkdfimWvoBfKIXxCMeXyr7xpxUkbkDboyDV891lBQqzCp8z5Se_FNCAtY=s128" width="96" height="96" />
@@ -527,6 +551,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.random_generator">
     <img src="https://play-lh.googleusercontent.com/Tc5dh9AMrIhGnLUMzCp2qBxh2UgLbUHPefgR_g1UrBejEjeoI-c-AH2nOokxYWI3IYEmniPeKTfheSssU1Qa=s128" width="96" height="96" />
@@ -551,7 +576,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.screen_recorder">
     <img src="https://play-lh.googleusercontent.com/vpq3Liz99eoqJOdAhVyjC9ocsZwlErU74GQi0DWswkES6IZKdA3XUgc8KOXW3kd9glfuh6ybOFXMEDNYyQxM=s128" width="96" height="96" />
@@ -568,6 +592,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.sliding_puzzle">
     <img src="https://play-lh.googleusercontent.com/66qGqZjqT8yJftCm9d8tmlCZnWt2SUwBrIPszS3Tqy4Zy5_RvUynj5SWfRec7-vVB4CdEWc_3dX44bbrUjoM=s128" width="96" height="96" />
@@ -592,7 +617,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.speed_test">
     <img src="https://play-lh.googleusercontent.com/KitG5Pv3a27uBpHI8M52dEYIF090YskyratGyVDc6U5pS6zZkQ6IOxtFasa-c3Om9P-YhPXj1Ot35UGvpQReSg=s128" width="96" height="96" />
@@ -609,6 +633,7 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.sudoku">
     <img src="https://play-lh.googleusercontent.com/KJWjk3fe7Yk2ztY50B4zsXJCLN4rclNSfyiECxcHWrTP7orN6HZU7gpUhtIjeGJhr_Rak30YqhlzvxS2aHA7HA=s128" width="96" height="96" />
@@ -633,7 +658,6 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
-</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.wifi_analyzer">
     <img src="https://play-lh.googleusercontent.com/01DFwqLpghrOrsNWAIUmJm-1F1si5_5zIcjc974ObNoe_4NGeF6IqLVzloRUCfxKUgq6BI3f5BldEa1FMixcT1E=s128" width="96" height="96" />
@@ -650,11 +674,20 @@ I adapt quickly to new technologies, write clean, reusable components and librar
   </a>
 </td>
 
+</tr><tr>
 <td align="center" valign="top" width="20%">
   <a href="https://play.google.com/store/apps/details?id=com.ssteam.yugioh_deck_builder">
     <img src="https://play-lh.googleusercontent.com/osM4pvu1KnZCkXE03RxdsJWcus8iZlfk8Q_Q8HjOnvC0BUBlcMqNSq7ylvxN9dUgv0J4RUZXahC6nTg3IP3VQQ=s128" width="96" height="96" />
     <br>
     <b>Yugioh Deck Builder</b>
+  </a>
+</td>
+
+<td align="center" valign="top" width="20%">
+  <a href="https://play.google.com/store/apps/details?id=com.ssteam.zip_game">
+    <img src="https://play-lh.googleusercontent.com/eJ5oOEAJa6SAB8O7HLEfJiUoVFxeDK0g4aIRWW4VwGdZcroyUos1lRbFlmDGGlWimeS1YvUNUd2MkyGGgmybbQ=s128" width="96" height="96" />
+    <br>
+    <b>Zip Game</b>
   </a>
 </td>
 

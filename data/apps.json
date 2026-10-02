@@ -60,6 +60,11 @@
         "icon": "https://play-lh.googleusercontent.com/cqxmb-qMBagT0zF4mFTpfp-oXgwFKmky9-9HrEHsF6ZJp2Dq1DD77GYziLl8kCepjaUCxZ53lVy0E69dNZB-"
     },
     {
+        "id": "com.ssteam.butterfly_wiki",
+        "name": "Butterfly Wiki",
+        "icon": "https://play-lh.googleusercontent.com/5t7PTHcuHb178dMsFFcZ1njtPM7gQGGsa35psT4t5CRs1kvs5YVMFFclLE4MPPvv8Ja8LoQtWSHbBHAl2y_hKq8"
+    },
+    {
         "id": "com.ssteam.hide_files_calculator",
         "name": "Calculator Vault",
         "icon": "https://play-lh.googleusercontent.com/2f1Pt2EVGuvC8FJJKQv6SWp_W1pqvGE17hNlbnidLrXW-1rwK-HdCOKtqgnXZCB5EzYgbqXdbYhfS9x08yKaSg"
@@ -143,6 +148,11 @@
         "id": "com.ssteam.d2_wiki",
         "name": "Diablo 2 Wiki",
         "icon": "https://play-lh.googleusercontent.com/wTcpj8I5_fzYRJodEnM2AQnabLzCkOSxZIfdsIEfPhKmJ3S8w5-6zGRdsW4uJobI0ArsuW3ya0EXIeIU478h"
+    },
+    {
+        "id": "com.ssteam.dot_connect",
+        "name": "Dot Connect",
+        "icon": "https://play-lh.googleusercontent.com/i-kMu92Q-bwV1j0GWonsHtFfFRNNFGCxn4OyIh7RGDacD9-6SaDT335SYOPnFZyXD_LadklFf-bOSMZj30SFGw"
     },
     {
         "id": "com.ssteam.easy_note",
@@ -233,6 +243,11 @@
         "id": "com.ssteam.money_manager",
         "name": "Money Manager",
         "icon": "https://play-lh.googleusercontent.com/XXFG6e0N-DYZDKrkj6Qv0Cmmd0cxoOpH2BtT8xwjd7jG-foy5NekibBoaJgcK0iWERqJ7krDRCQRE0dxTX4U"
+    },
+    {
+        "id": "com.ssteam.moon_phase",
+        "name": "Moon Phase",
+        "icon": "https://play-lh.googleusercontent.com/er8-rCYeSEiQn3jnu_SbvkieZpNr2CdgL7NAFwW-tYLVbkCZo__664evGpzm0IYF1okJRNJhLyz1Percu5Jp9A"
     },
     {
         "id": "com.ssteam.notification_history",
@@ -388,6 +403,11 @@
         "id": "com.ssteam.yugioh_deck_builder",
         "name": "Yugioh Deck Builder",
         "icon": "https://play-lh.googleusercontent.com/osM4pvu1KnZCkXE03RxdsJWcus8iZlfk8Q_Q8HjOnvC0BUBlcMqNSq7ylvxN9dUgv0J4RUZXahC6nTg3IP3VQQ"
+    },
+    {
+        "id": "com.ssteam.zip_game",
+        "name": "Zip Game",
+        "icon": "https://play-lh.googleusercontent.com/eJ5oOEAJa6SAB8O7HLEfJiUoVFxeDK0g4aIRWW4VwGdZcroyUos1lRbFlmDGGlWimeS1YvUNUd2MkyGGgmybbQ"
     },
     {
         "id": "com.ssteam.gplx",
